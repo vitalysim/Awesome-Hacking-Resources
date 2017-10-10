@@ -1,9 +1,17 @@
 # Awesome Hacking Resources
 A collection of hacking / penetration testing resources to make you better!
 
-You are welcome to fork and contribute 
+You are welcome to fork and contribute
 
-Train your skills
+Learning the Skills
+--
+* [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
+* [Cybrary](https://www.cybrary.it/)
+* [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
+* [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
+* [Free cyber security training](https://www.samsclass.info/)
+
+Sharpening Your Skills
 --
 * [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)
 * [CTF365](https://ctf365.com/)
