@@ -1,4 +1,4 @@
-# Awesome-Hacking-Resources
+# Awesome Hacking Resources
 A collection of hacking / penetration testing resources to make you better!
 
 You are welcome to fork and contribute 
@@ -6,6 +6,8 @@ You are welcome to fork and contribute
 Train your skills
 --
 * [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)
+* [CTF365](https://ctf365.com/)
+* [Pentestit](https://lab.pentestit.ru/)
 * [Hacksplaining](https://www.hacksplaining.com/)
 * [The cryptopals crypto challenges](http://cryptopals.com/)
 * [The enigma group](https://www.enigmagroup.org/)
@@ -30,6 +32,7 @@ Reverse Engineering and Buffer overflow
 * [Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86.html)
 * [Binary hacking](http://liveoverflow.com/binary_hacking/index.html)
 * [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/)
+* [Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf)
 
 Privileged escalation
 --
