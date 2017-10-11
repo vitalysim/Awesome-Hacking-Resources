@@ -44,6 +44,10 @@ YouTube channels
 * [Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q)
 * [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)
 
+Archived Security Conference Videos
+--
+* [InfoCon.org](https://infocon.org/cons/)
+
 Sharpening Your Skills
 --
 * [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)
