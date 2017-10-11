@@ -64,7 +64,7 @@ Sharpening Your Skills
 * [Root-Me](https://www.root-me.org/)
 * [PicoCTF](https://2017game.picoctf.com/)
 
-Reverse Engineering and Buffer overflow
+Reverse Engineering, Buffer overflow and Exploit development
 --
 * [Shell storm](http://shell-storm.org/)
 * [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4)
@@ -74,6 +74,9 @@ Reverse Engineering and Buffer overflow
 * [Binary hacking](http://liveoverflow.com/binary_hacking/index.html)
 * [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/)
 * [Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf)
+* [Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/)
+* [Exploit development](https://0x00sec.org/c/exploit-development)
+* [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 
 Privileged escalation
 --
