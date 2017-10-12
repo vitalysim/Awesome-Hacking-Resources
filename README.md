@@ -67,6 +67,7 @@ Sharpening Your Skills
 * [SmashTheStack](http://smashthestack.org/wargames.html)
 * [Root-Me](https://www.root-me.org/)
 * [PicoCTF](https://2017game.picoctf.com/)
+* [Shellter Labs](https://shellterlabs.com/en/)
 
 Reverse Engineering, Buffer overflow and Exploit development
 --
@@ -81,6 +82,7 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/)
 * [Exploit development](https://0x00sec.org/c/exploit-development)
 * [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+* [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md)
 
 Privileged escalation
 --
@@ -98,3 +100,10 @@ Privileged escalation
 * [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation)
 * [Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)
 * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+* [4 Ways get linux privilege escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/)
+
+Malware analysis
+--
+* [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
+* [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)
+
