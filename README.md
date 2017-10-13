@@ -44,10 +44,6 @@ YouTube channels
 * [Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q)
 * [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)
 
-Archived Security Conference Videos
---
-* [InfoCon.org](https://infocon.org/cons/)
-
 Sharpening Your Skills
 --
 * [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)
@@ -73,7 +69,8 @@ Reverse Engineering, Buffer overflow and Exploit development
 --
 * [Shell storm](http://shell-storm.org/)
 * [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4)
-* [Malware Unicorn](https://securedorg.github.io/RE101/)
+* [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+* [Reverse Engineering Malware 102](https://securedorg.github.io/RE102/)
 * [Modern Binary Exploitation - CSCI 4968](https://github.com/RPISEC/MBE)
 * [Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86.html)
 * [Binary hacking](http://liveoverflow.com/binary_hacking/index.html)
@@ -83,6 +80,7 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [Exploit development](https://0x00sec.org/c/exploit-development)
 * [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 * [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md)
+* [Reverse Engineering challenges](https://challenges.re/)
 
 Privileged escalation
 --
@@ -106,6 +104,28 @@ Malware analysis
 --
 * [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
 * [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)
+
+Vulnerable Web Application
+--
+* [OWASP Hackademic Challenges project](https://github.com/Hackademic/hackademic/)
+* [bWAPP](http://www.itsecgames.com/)
+* [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)
+* [Xtreme Vulnerable Web Application (XVWA)](https://github.com/s4n7h0/xvwa)
+* [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat)
+* [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/)
+* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
+* [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
+
+
+Forums
+--
+* [Greysec](https://greysec.net)
+* [Hackforums](https://hackforums.net/)
+* [0x00sec](https://0x00sec.org/)
+
+Archived Security Conference Videos
+--
+* [InfoCon.org](https://infocon.org/cons/)
 
 Online Communities
 --
