@@ -22,6 +22,7 @@ YouTube channels
 * [Hak5](https://www.youtube.com/user/Hak5Darren)
 * [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
 * [Christiaan008](https://www.youtube.com/channel/UCEPzS1rYsrkqzSLNp76nrcg)
+* [Samy Kamkar's Applied Hacking](https://www.youtube.com/user/s4myk)
 * [danooct1](https://www.youtube.com/channel/UCqbkm47qBxDj-P3lI9voIAw)
 * [DedSec](https://www.youtube.com/channel/UCx34ZZW2KgezfUPPeL6m8Dw)
 * [DEFCON Conference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
