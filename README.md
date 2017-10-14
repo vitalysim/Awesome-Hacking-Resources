@@ -123,6 +123,7 @@ Forums
 * [Greysec](https://greysec.net)
 * [Hackforums](https://hackforums.net/)
 * [0x00sec](https://0x00sec.org/)
+* [Antichat](https://forum.antichat.ru/)
 
 Archived Security Conference Videos
 --
