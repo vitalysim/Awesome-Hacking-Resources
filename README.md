@@ -117,6 +117,10 @@ Vulnerable Web Application
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 
+Quests
+--
+Kaimi & dx [1](https://kaimi.io/quest/), [2](https://kaimi.io/quest_x2/), [3](https://kaimi.io/q3en/), [4](https://kaimi.io/quest_x4/)
+
 
 Forums
 --
