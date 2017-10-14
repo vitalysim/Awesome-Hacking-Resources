@@ -83,6 +83,10 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md)
 * [Reverse Engineering challenges](https://challenges.re/)
 
+Architecture
+--
+* [Intel SGX explained](https://eprint.iacr.org/2016/086.pdf) - an awesome overview not only of SGX, but whole x86_64 architecture.
+
 Privileged escalation
 --
 * [Reach the root](https://hackmag.com/security/reach-the-root/)
