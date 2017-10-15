@@ -71,6 +71,7 @@ Sharpening Your Skills
 * [Backdoor](https://backdoor.sdslabs.co)
 * [Vulnhub](https://www.vulnhub.com/)
 * [Hack.me](https://hack.me/)
+* [Hack this site!](https://www.hackthissite.org/)
 * [Exploit exercises](https://exploit-exercises.com/)
 * [PentesterLab](https://pentesterlab.com/)
 * [SmashTheStack](http://smashthestack.org/wargames.html)
@@ -134,6 +135,10 @@ Vulnerable Web Application
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 * [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+
+Exploit 
+--
+* [Exploit Database](https://www.exploit-db.com/)
 
 Forums
 --
