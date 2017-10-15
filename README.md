@@ -44,6 +44,7 @@ YouTube channels
 * [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
 * [Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q)
 * [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)
+* [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
 
 Sharpening Your Skills
 --
