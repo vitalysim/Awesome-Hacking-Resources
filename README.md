@@ -1,8 +1,14 @@
+<h1 align="center">
+ 	<br>
+ 	  <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+ 	<br>
+</h1>
+ 
 # Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
 A collection of hacking / penetration testing resources to make you better!
 
-**lets make it the biggest resource repository for our community**
+**let's make it the biggest resource repository for our community**
 
 **You are welcome to fork and contribute.**
 
