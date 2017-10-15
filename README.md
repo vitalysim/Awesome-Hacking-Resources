@@ -8,7 +8,7 @@
 
 A collection of hacking / penetration testing resources to make you better!
 
-**let's make it the biggest resource repository for our community**
+**Let's make it the biggest resource repository for our community.**
 
 **You are welcome to fork and contribute.**
 
