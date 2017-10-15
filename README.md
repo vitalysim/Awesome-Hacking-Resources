@@ -83,6 +83,7 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 * [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md)
 * [Reverse Engineering challenges](https://challenges.re/)
+* [Xerosploit](https://github.com/LionSec/xerosploit)
 
 Privileged escalation
 --
