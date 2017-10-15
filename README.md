@@ -1,4 +1,5 @@
-# Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)]()
+# Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+
 A collection of hacking / penetration testing resources to make you better!
 
 **lets make it the biggest resource repository for our community**
@@ -28,6 +29,7 @@ YouTube channels
 * [DedSec](https://www.youtube.com/channel/UCx34ZZW2KgezfUPPeL6m8Dw)
 * [DEFCON Conference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
 * [DemmSec](https://www.youtube.com/channel/UCJItQmwUrcW4VdUqWaRUNIg)
+* [Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g)
 * [Geeks Fort - KIF](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw)
 * [iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos)
 * [Latest Hacking News](https://www.youtube.com/channel/UCDSLIfPnsK1WdEZi_AcvSlQ)
@@ -45,6 +47,8 @@ YouTube channels
 * [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
 * [Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q)
 * [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)
+* [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
+* [Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA)
 * [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
 
 Sharpening Your Skills
