@@ -1,7 +1,13 @@
+<h1 align="center">
+ 	<br>
+ 	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+ 	<br>
+</h1>
+ 
 # Awesome Hacking Resources
 A collection of hacking / penetration testing resources to make you better!
 
-**lets make it the biggest resource repository for our community**
+**Lets make it the biggest resource repository for our community**
 
 **You are welcome to fork and contribute.**
 
@@ -87,49 +93,4 @@ Reverse Engineering, Buffer overflow and Exploit development
 Privileged escalation
 --
 * [Reach the root](https://hackmag.com/security/reach-the-root/)
-* [Basic linux privilege escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-* [Windows Privilege Escalation](http://www.bhafsec.com/wiki/index.php/Windows_Privilege_Escalation)
-* [Privilege escalation for Windows and Linux](https://github.com/AusJock/Privilege-Escalation)
-* [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
-* [RootHelper](https://github.com/NullArray/RootHelper)
-* [Windows exploits, mostly precompiled.](https://github.com/abatchy17/WindowsExploits)
-* [Unix privesc checker](http://pentestmonkey.net/tools/audit/unix-privesc-check)
-* [Privilege escalation linux with live example](http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/)
-* [Windows privilege escalation checker](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
-* [Linux Privilege Escalation Scripts](http://netsec.ws/?p=309#more-309)
-* [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation)
-* [Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)
-* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
-* [4 Ways get linux privilege escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/)
-
-Malware analysis
---
-* [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
-* [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)
-
-Vulnerable Web Application
---
-* [OWASP Hackademic Challenges project](https://github.com/Hackademic/hackademic/)
-* [bWAPP](http://www.itsecgames.com/)
-* [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/)
-* [Xtreme Vulnerable Web Application (XVWA)](https://github.com/s4n7h0/xvwa)
-* [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat)
-* [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/)
-* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
-* [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
-
-
-Forums
---
-* [Greysec](https://greysec.net)
-* [Hackforums](https://hackforums.net/)
-* [0x00sec](https://0x00sec.org/)
-* [Antichat](https://forum.antichat.ru/)
-
-Archived Security Conference Videos
---
-* [InfoCon.org](https://infocon.org/cons/)
-
-Online Communities
---
-* [Hack+](http://t.me/hacking_group_channel)
+* [Basic li
