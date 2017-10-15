@@ -1,7 +1,14 @@
-# Awesome Hacking Resources
+<h1 align="center">
+ 	<br>
+ 	  <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+ 	<br>
+</h1>
+ 
+# Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+
 A collection of hacking / penetration testing resources to make you better!
 
-**lets make it the biggest resource repository for our community**
+**Let's make it the biggest resource repository for our community.**
 
 **You are welcome to fork and contribute.**
 
@@ -15,6 +22,7 @@ Learning the Skills
 * [SecurityTube](http://www.securitytube.net/)
 * [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
 * [Hak5](https://www.hak5.org/)
+* [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk)
 
 YouTube channels
 --
@@ -27,6 +35,7 @@ YouTube channels
 * [DedSec](https://www.youtube.com/channel/UCx34ZZW2KgezfUPPeL6m8Dw)
 * [DEFCON Conference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
 * [DemmSec](https://www.youtube.com/channel/UCJItQmwUrcW4VdUqWaRUNIg)
+* [Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g)
 * [Geeks Fort - KIF](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw)
 * [iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos)
 * [Latest Hacking News](https://www.youtube.com/channel/UCDSLIfPnsK1WdEZi_AcvSlQ)
@@ -44,6 +53,9 @@ YouTube channels
 * [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
 * [Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q)
 * [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)
+* [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
+* [Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA)
+* [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
 
 Sharpening Your Skills
 --
@@ -59,6 +71,7 @@ Sharpening Your Skills
 * [Backdoor](https://backdoor.sdslabs.co)
 * [Vulnhub](https://www.vulnhub.com/)
 * [Hack.me](https://hack.me/)
+* [Hack this site!](https://www.hackthissite.org/)
 * [Exploit exercises](https://exploit-exercises.com/)
 * [PentesterLab](https://pentesterlab.com/)
 * [SmashTheStack](http://smashthestack.org/wargames.html)
@@ -66,6 +79,7 @@ Sharpening Your Skills
 * [PicoCTF](https://2017game.picoctf.com/)
 * [Shellter Labs](https://shellterlabs.com/en/)
 * [Pentest Practice](https://www.pentestpractice.com/)
+* [Pentest.training](https://pentest.training)
 
 Reverse Engineering, Buffer overflow and Exploit development
 --
@@ -83,7 +97,9 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 * [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md)
 * [Reverse Engineering challenges](https://challenges.re/)
-* [Xerosploit](https://github.com/LionSec/xerosploit)
+* [Reverse Engineering for beginners (GitHub project)](https://github.com/dennis714/RE-for-beginners)
+* [reversing.kr challenges](http://www.reversing.kr/challenge.php)
+* [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
 
 Privileged escalation
 --
@@ -118,7 +134,11 @@ Vulnerable Web Application
 * [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/)
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
+* [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
 
+Exploit 
+--
+* [Exploit Database](https://www.exploit-db.com/)
 
 Forums
 --
