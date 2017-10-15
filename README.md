@@ -1,4 +1,5 @@
-# Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)]()
+# Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+
 A collection of hacking / penetration testing resources to make you better!
 
 **lets make it the biggest resource repository for our community**
