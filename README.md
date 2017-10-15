@@ -72,6 +72,7 @@ Sharpening Your Skills
 * [Vulnhub](https://www.vulnhub.com/)
 * [Hack.me](https://hack.me/)
 * [Exploit exercises](https://exploit-exercises.com/)
+* [Exploit Database](https://www.exploit-db.com/)
 * [PentesterLab](https://pentesterlab.com/)
 * [SmashTheStack](http://smashthestack.org/wargames.html)
 * [Root-Me](https://www.root-me.org/)
