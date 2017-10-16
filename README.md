@@ -12,6 +12,9 @@ A collection of hacking / penetration testing resources to make you better!
 
 **You are welcome to fork and [contribute](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/contributing.md#contribution-guidelines).**
 
+We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
+
+
 Learning the Skills
 --
 * [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
