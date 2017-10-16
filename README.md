@@ -64,6 +64,7 @@ YouTube Channels
 Sharpening Your Skills
 --
 * [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)
+* [CTFLearn](https://ctflearn.com/)
 * [CTF365](https://ctf365.com/)
 * [Pentestit](https://lab.pentestit.ru/)
 * [Hacksplaining](https://www.hacksplaining.com/)
