@@ -60,6 +60,7 @@ YouTube Channels
 * [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
 * [Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA)
 * [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
+* [Adrian Crenshaw](https://www.youtube.com/user/irongeek)
 
 Sharpening Your Skills
 --
@@ -156,6 +157,7 @@ Forums
 Archived Security Conference Videos
 --
 * [InfoCon.org](https://infocon.org/cons/)
+* [Irongeek](http://www.irongeek.com/)
 
 Online Communities
 --
