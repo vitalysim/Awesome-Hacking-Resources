@@ -25,7 +25,7 @@ Learning the Skills
 * [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk)
 * [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 
-YouTube channels
+YouTube Channels
 --
 * [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
 * [Hak5](https://www.youtube.com/user/Hak5Darren)
@@ -83,7 +83,7 @@ Sharpening Your Skills
 * [Pentest.training](https://pentest.training)
 * [pwnable.kr](http://pwnable.kr/)
 
-Reverse Engineering, Buffer overflow and Exploit development
+Reverse Engineering, Buffer Overflow and Exploit Development
 --
 * [Shell storm](http://shell-storm.org/)
 * [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4)
@@ -103,7 +103,7 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [reversing.kr challenges](http://www.reversing.kr/challenge.php)
 * [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
 
-Privileged escalation
+Privilege Escalation
 --
 * [Reach the root](https://hackmag.com/security/reach-the-root/)
 * [Basic linux privilege escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
@@ -121,7 +121,7 @@ Privileged escalation
 * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
 * [4 Ways get linux privilege escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/)
 
-Malware analysis
+Malware Analysis
 --
 * [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
 * [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)
