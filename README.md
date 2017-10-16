@@ -103,6 +103,10 @@ Reverse Engineering, Buffer overflow and Exploit development
 * [reversing.kr challenges](http://www.reversing.kr/challenge.php)
 * [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
 
+Architecture
+--
+* [Intel SGX explained](https://eprint.iacr.org/2016/086.pdf) - an awesome overview not only of SGX, but whole x86_64 architecture.
+
 Privileged escalation
 --
 * [Reach the root](https://hackmag.com/security/reach-the-root/)
