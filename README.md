@@ -23,6 +23,7 @@ Learning the Skills
 * [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
 * [Hak5](https://www.hak5.org/)
 * [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk)
+* [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 
 YouTube channels
 --
