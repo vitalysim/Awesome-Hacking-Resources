@@ -44,6 +44,16 @@ Name | Description
 [BeEF](http://beefproject.com/) | Browser Exploitation Framework (Beef)
 [Core Impact](https://www.coresecurity.com/core-impact) | Core Impact provides vulnerability assessment and penetration security testing throughout your organization.
 
+
+
+
+### Exploitation tools
+Name | Description
+---- | ----
+[Metasploit](https://www.metasploit.com/) | The world’s most used penetration testing framework
+[BeEF](http://beefproject.com/) | Browser Exploitation Framework (Beef)
+[Core Impact](https://www.coresecurity.com/core-impact) | Core Impact provides vulnerability assessment and penetration security testing throughout your organization.
+
 ### Awesome Repositories
 Repository | Description
 ---- | ----
