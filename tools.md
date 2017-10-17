@@ -7,6 +7,7 @@ A curated list of awesome Hacking Tools. Your contributions are always welcome !
 ### MITM tools
 Name | Description
 ---- | ----
+[Burp Suite](https://portswigger.net/burp) | GUI based tool for testing Web application security.
 [mitmproxy](https://mitmproxy.org/) | An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed
 [Ettercap](https://ettercap.github.io/ettercap/) | Ettercap is a comprehensive suite for man in the middle attacks
 [BetterCAP](https://www.bettercap.org/) | MITM attacks against a network, manipulate HTTP, HTTPS and TCP traffic in realtime, sniff for credentials and much more.
