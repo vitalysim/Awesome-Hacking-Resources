@@ -19,6 +19,24 @@ Name | Description
 []() | 
 []() | 
 
+### Source Code Analysis Tools
+Name | Description
+---- | ----
+[Retire.js](http://retirejs.github.io/retire.js/) | detecting the use of JavaScript libraries with known vulnerabilities
+[pyup](https://pyup.io/) | Automated Security and Dependency Updates
+[RIPS](https://www.ripstech.com/) | PHP Security Analysis
+[]() | 
+[]() | 
+
+### Linux Security Tools
+Name | Description
+---- | ----
+[DefenseMatrix](https://github.com/K4YT3X/DefenseMatrix) | Full security solution for Linux Servers 
+[]() | 
+[]() | 
+
+
+
 ### Exploitation tools
 Name | Description
 ---- | ----
