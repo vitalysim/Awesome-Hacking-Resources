@@ -61,6 +61,7 @@ YouTube Channels
 * [Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA)
 * [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
 * [Adrian Crenshaw](https://www.youtube.com/user/irongeek)
+* [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
 Sharpening Your Skills
 --
