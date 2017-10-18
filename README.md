@@ -150,15 +150,18 @@ Vulnerable Web Application
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 * [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 
 Vulnerable OS
 --
 * [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 * [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\]
 
-Exploit 
+Exploits
 --
 * [Exploit Database](https://www.exploit-db.com/)
+* [CXsecurity](https://cxsecurity.com/exploit/)
+* [0day.today](http://0day.today/)
 
 Forums
 --
