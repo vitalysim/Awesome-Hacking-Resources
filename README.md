@@ -89,6 +89,12 @@ Sharpening Your Skills
 * [Pentest Practice](https://www.pentestpractice.com/)
 * [Pentest.training](https://pentest.training)
 * [pwnable.kr](http://pwnable.kr/)
+* [hackburger.ee](http://hackburger.ee/)
+* [http://noe.systems/](http://noe.systems/)
+* [Hacker Gateway](https://www.hackergateway.com/)
+* [Solve Me](http://solveme.safflower.kr/)
+* [Challenge Land](http://challengeland.co/)
+* [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --
