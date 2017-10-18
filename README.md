@@ -52,6 +52,7 @@ YouTube Channels
 * [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 * [rwbnetsec](https://www.youtube.com/channel/UCAJ8Clc3188ek9T_5XTVzZQ)
 * [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg)
+* [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 * [Shozab Haxor](https://www.youtube.com/channel/UCBwub2kRoercWQJ2mw82h3A)
 * [SSTec Tutorials](https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg)
 * [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
