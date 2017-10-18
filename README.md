@@ -147,6 +147,7 @@ Vulnerable Web Application
 Vulnerable OS
 --
 * [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+* [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\]
 
 Exploit 
 --
