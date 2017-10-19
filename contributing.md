@@ -7,7 +7,7 @@ This resource was made by the developers and hackers alike! We appreciate and re
 ## Table of Content
 
 - [Adding to the list](#adding-to-the-list)
-- [To remove from the list](#to-remove-from-the-list)
+- [Removing from the list](#removing-from-the-list)
 - [Contributors](#contributors)
 
 ## Adding to the List
