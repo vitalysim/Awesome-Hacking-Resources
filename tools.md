@@ -31,6 +31,15 @@ Name | Description
 ---- | ----
 [DefenseMatrix](https://github.com/K4YT3X/DefenseMatrix) | Full security solution for Linux Servers 
 
+### Exploit Databases
+Name | Description
+---- | ----
+[0day](http://0day.today/) | Inj3ct0r is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals. 
+[cxsecurity](http://cxsecurity.com/exploit) | Exploit Database
+[exploit-db](https://www.exploit-db.com/) | Exploits Database by Offensive Security
+[iedb](http://iedb.ir/) | Iranian Exploit DataBase
+[rapid7](https://rapid7.com/db) | Vulnerability & Exploit Database - Rapid7
+
 ### Exploitation tools
 Name | Description
 ---- | ----
@@ -44,7 +53,6 @@ Name | Description
 [Shodan](http://shodan.io/) | Shodan is the world's first search engine for Internet-connected devices.
 [Zoomeye](https://www.zoomeye.org/) | search engine for cyberspace that lets the user find specific network components(ip, services, etc.)
 [Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
-[vulners](https://vulners.com/landing)| Complete Vulnerability DataBase & Security Scanner
 
 ### Awesome Repositories
 Repository | Description
