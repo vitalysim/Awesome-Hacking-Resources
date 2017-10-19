@@ -24,6 +24,7 @@ Name | Description
 [Retire.js](http://retirejs.github.io/retire.js/) | detecting the use of JavaScript libraries with known vulnerabilities
 [pyup](https://pyup.io/) | Automated Security and Dependency Updates
 [RIPS](https://www.ripstech.com/) | PHP Security Analysis
+[Snyk](https://snyk.io/) | find & fix vulnerabilities in dependencies, supports various languages
 
 ### Linux Security Tools
 Name | Description

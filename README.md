@@ -162,6 +162,7 @@ Exploits
 * [Exploit Database](https://www.exploit-db.com/)
 * [CXsecurity](https://cxsecurity.com/exploit/)
 * [0day.today](http://0day.today/)
+* [Snyk Vulnerability DB](https://snyk.io/vuln/)
 
 Forums
 --
