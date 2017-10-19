@@ -22,7 +22,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Privilege Escalation](#privilege-escalation)
  * [Malware Analysis](#malware-analysis)
  * [Vulnerable Web Application](#vulnerable-web-application)
- * [Vulnerable OS]{#vulnerable-os)
+ * [Vulnerable OS](#vulnerable-os)
  * [Exploits](#exploits)
  * [Forums](#forums)
  * [Archived Security Conference Videos](#archived-security-conference-videos)
