@@ -49,8 +49,7 @@ Name | Description
 Repository | Description
 ---- | ----
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
-[HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). 
-Organize testing methodologies (currently avalible only inside of Burp Suite).
+[HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
 
 ### Awesome custom projects / Scripts
 Name | Description
