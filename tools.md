@@ -61,7 +61,9 @@ Name | Description
 Repository | Description
 ---- | ----
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
+[SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
 [HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
+[fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
 
 ### Source Code Analysis Tools
 Name | Description
