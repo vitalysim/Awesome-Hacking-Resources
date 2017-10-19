@@ -181,7 +181,6 @@ Online Communities
 
 Online News Sources  
 --
- * [InfoSec](http://www.infosecurity-magazine.com/)  
- * [Threatpost](https://threatpost.com/)  
-
-
+* [InfoSec](http://www.infosecurity-magazine.com/)  
+* [Threatpost](https://threatpost.com/)  
+* [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)  
