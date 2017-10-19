@@ -177,4 +177,10 @@ Archived Security Conference Videos
 
 Online Communities
 --
-* [Hack+](http://t.me/hacking_group_channel)
+* [Hack+](http://t.me/hacking_group_channel)  
+
+Online News Sources  
+--
+* [InfoSec](http://www.infosecurity-magazine.com/)  
+* [Threatpost](https://threatpost.com/)  
+* [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)  
