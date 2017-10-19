@@ -95,6 +95,7 @@ Sharpening Your Skills
 * [Solve Me](http://solveme.safflower.kr/)
 * [Challenge Land](http://challengeland.co/)
 * [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1)
+* [Hacker test](http://www.hackertest.net/)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --

@@ -38,10 +38,19 @@ Name | Description
 [BeEF](http://beefproject.com/) | Browser Exploitation Framework (Beef)
 [Core Impact](https://www.coresecurity.com/core-impact) | Core Impact provides vulnerability assessment and penetration security testing throughout your organization.
 
+### Search Engine for Penetration Tester
+Name | Description
+---- | ----
+[Shodan](http://shodan.io/) | Shodan is the world's first search engine for Internet-connected devices.
+[Zoomeye](https://www.zoomeye.org/) | search engine for cyberspace that lets the user find specific network components(ip, services, etc.)
+[Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
+
 ### Awesome Repositories
 Repository | Description
 ---- | ----
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
+[HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). 
+Organize testing methodologies (currently avalible only inside of Burp Suite).
 
 ### Awesome custom projects / Scripts
 Name | Description
