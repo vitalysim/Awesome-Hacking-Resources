@@ -162,7 +162,6 @@ Vulnerable Web Application
 * [Xtreme Vulnerable Web Application (XVWA)](https://github.com/s4n7h0/xvwa)
 * [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat)
 * [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/)
-* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 * [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
