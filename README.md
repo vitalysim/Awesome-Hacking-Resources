@@ -201,4 +201,4 @@ Online News Sources
 * [InfoSec](http://www.infosecurity-magazine.com/)  
 * [Threatpost](https://threatpost.com/)  
 * [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)  
-* [Hacker New](https://thehackernews.com/)
+* [The Hacker News](https://thehackernews.com/)
