@@ -130,6 +130,7 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [Reverse Engineering for beginners (GitHub project)](https://github.com/dennis714/RE-for-beginners)
 * [reversing.kr challenges](http://www.reversing.kr/challenge.php)
 * [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
+* [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
 
 Privilege Escalation
 --
