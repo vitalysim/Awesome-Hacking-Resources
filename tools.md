@@ -13,6 +13,7 @@ Repository | Description
 ### Awesome custom projects / Scripts
 Name | Description
 ---- | ----
+[mimikatz](https://github.com/gentilkiwi/mimikatz) | A useful tool to play with Windows security including extracting plaintext passwords, kerberos tickets, etc.
 
 ### Exploitation tools
 Name | Description
@@ -55,20 +56,24 @@ Name | Description
 [Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
 [Shodan](http://shodan.io/) | Shodan is the world's first search engine for Internet-connected devices.
 [Zoomeye](https://www.zoomeye.org/) | search engine for cyberspace that lets the user find specific network components(ip, services, etc.)
-[Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
 
 ### Awesome Repositories
 Repository | Description
 ---- | ----
-[Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
-[SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
-[HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
 [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
+[HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
+[SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
+[Xerosploit](https://github.com/LionSec/xerosploit)   | Efficient and advanced man in the middle framework
 
 ### Source Code Analysis Tools
 Name | Description
 ---- | ----
+[pyup](https://pyup.io/) | Automated Security and Dependency Updates
 [RIPS](https://www.ripstech.com/) | PHP Security Analysis
 [Retire.js](http://retirejs.github.io/retire.js/) | detecting the use of JavaScript libraries with known vulnerabilities
 [Snyk](https://snyk.io/) | find & fix vulnerabilities in dependencies, supports various languages
-[pyup](https://pyup.io/) | Automated Security and Dependency Updates
+
+### Binary Analysis Tools
+Name | Description
+---- | ----
+[BinNavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code
