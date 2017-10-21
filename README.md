@@ -110,6 +110,7 @@ Sharpening Your Skills
 * [Challenge Land](http://challengeland.co/)
 * [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1)
 * [Hacker test](http://www.hackertest.net/)
+* [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --
@@ -131,6 +132,7 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [reversing.kr challenges](http://www.reversing.kr/challenge.php)
 * [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
 * [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
+* [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876)
 
 Privilege Escalation
 --
