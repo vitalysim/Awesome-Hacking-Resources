@@ -147,6 +147,7 @@ Sharpening Your Skills
 * [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1)
 * [Hacker test](http://www.hackertest.net/)
 * [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152)
+* [ROP Emporium](https://ropemporium.com/)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --
