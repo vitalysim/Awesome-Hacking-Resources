@@ -206,7 +206,12 @@ Vulnerable OS
 
 Linux Penetration Testing OS
 --
+* [BackBox](https://backbox.org/index)
+* [BlackArch](https://blackarch.org/index.html)
+* [Kali](http://kali.org/)
 * [LionSec Linux](https://lionsec-linux.org/)
+* [Parrot ](https://www.parrotsec.org/)
+
 
 Exploits
 --
