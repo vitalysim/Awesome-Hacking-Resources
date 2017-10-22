@@ -118,6 +118,7 @@ Sharpening Your Skills
 --
 * [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)
 * [CTFLearn](https://ctflearn.com/)
+* [CTFs write-ups](https://github.com/ctfs)
 * [CTF365](https://ctf365.com/)
 * [Pentestit](https://lab.pentestit.ru/)
 * [Hacksplaining](https://www.hacksplaining.com/)
