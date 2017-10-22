@@ -29,6 +29,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Archived Security Conference Videos](#archived-security-conference-videos)
  * [Online Communities](#online-communities)
  * [Online News Sources](#online-news-sources)
+ * [Linux Penetration Testing OS](#linux-penetration-testing-os)
 
 Learning the Skills
 --
@@ -202,6 +203,10 @@ Vulnerable OS
 --
 * [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 * [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\]
+
+Linux Penetration Testing OS
+--
+* [LionSec Linux](https://lionsec-linux.org/)
 
 Exploits
 --
