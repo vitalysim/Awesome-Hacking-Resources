@@ -11,6 +11,7 @@ Repository | Description
 [HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
 [SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
+[ctf-tools](https://github.com/zardus/ctf-tools) | Some setup scripts for security research tools. 
 
 ### Awesome custom projects / Scripts
 Name | Description
