@@ -45,6 +45,7 @@ Name | Description
 [BetterCAP](https://www.bettercap.org/) | MITM attacks against a network, manipulate HTTP, HTTPS and TCP traffic in realtime, sniff for credentials and much more.
 [Burp Suite](https://portswigger.net/burp) | GUI based tool for testing Web application security.
 [Ettercap](https://ettercap.github.io/ettercap/) | Ettercap is a comprehensive suite for man in the middle attacks
+[MITMf](https://github.com/byt3bl33d3r/MITMf) | Framework for Man-In-The-Middle attacks
 [mitmproxy](https://mitmproxy.org/) | An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed
 
 ### SQL Injection
