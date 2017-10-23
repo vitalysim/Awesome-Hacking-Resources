@@ -171,6 +171,7 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
 * [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
 * [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876)
+* [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 
 Privilege Escalation
 --
