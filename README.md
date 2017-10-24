@@ -195,7 +195,7 @@ Network Scanning / Reconnaissance
 --
 * [NMAP](https://nmap.org/)
 * [Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/fundamentals-computer-hacking-956)
-* [Google Dorks/Google Hacking] (https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/)
+* [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/)
 
 Malware Analysis
 --
