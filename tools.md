@@ -7,8 +7,11 @@ A curated list of awesome Hacking Tools. Your contributions are always welcome !
 ### Awesome Repositories
 Repository | Description
 ---- | ----
+[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) | A curated list of awesome malware analysis tools and resources
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers
 [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 [HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
+[List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks) | A curated list of awesome Security talks
 [SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
 [ctf-tools](https://github.com/zardus/ctf-tools) | Some setup scripts for security research tools. 
