@@ -3,7 +3,7 @@
  	  <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
  	<br>
 </h1>
- 
+
 # Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
 A collection of hacking / penetration testing resources to make you better!
@@ -40,6 +40,7 @@ Learning the Skills
 * [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 * [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
 * [Free cyber security training](https://www.samsclass.info/)
+* [How to Become a Hacker](http://www.catb.org/%7Eesr/faqs/hacker-howto.html)
 * [SecurityTube](http://www.securitytube.net/)
 * [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
 * [Hak5](https://www.hak5.org/)
@@ -244,7 +245,7 @@ Forums
 * [Hackforums](https://hackforums.net/)
 * [0x00sec](https://0x00sec.org/)
 * [Antichat](https://forum.antichat.ru/)
- 
+
 
 Archived Security Conference Videos
 --
@@ -255,9 +256,9 @@ Online Communities
 --
 * [Hack+](http://t.me/hacking_group_channel)
 
-Online News Sources  
+Online News Sources
 --
-* [InfoSec](http://www.infosecurity-magazine.com/)  
-* [Threatpost](https://threatpost.com/)  
-* [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)  
+* [InfoSec](http://www.infosecurity-magazine.com/)
+* [Threatpost](https://threatpost.com/)
+* [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)
 * [The Hacker News](https://thehackernews.com/)
