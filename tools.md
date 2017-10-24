@@ -64,6 +64,12 @@ Name | Description
 ---- | ----
 [OSSIM](https://www.alienvault.com/products/ossim) | AlienVault’s Open Source Security Information and Event Management (SIEM) product
 
+### Network Scanning Tools
+Name | Description
+---- | ----
+[NMAP](https://nmap.org/) | The industry standard in network/port scanning.  Widely used.
+[Wireshark](https://www.wireshark.org/) | A versatile and feature-packed packet sniffing/analysis tool.  
+
 ### Source Code Analysis Tools
 Name | Description
 ---- | ----
