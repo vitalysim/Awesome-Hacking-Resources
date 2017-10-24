@@ -22,6 +22,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Sharpening Your Skills](#sharpening-your-skills)
  * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
  * [Privilege Escalation](#privilege-escalation)
+ * [Network Scanning / Reconnaissance](#network-Scanning-/-Reconnaissance)
  * [Malware Analysis](#malware-analysis)
  * [Vulnerable Web Application](#vulnerable-web-application)
  * [Vulnerable OS](#vulnerable-os)
@@ -196,6 +197,11 @@ Malware Analysis
 * [Malware traffic analysis](http://www.malware-traffic-analysis.net/)
 * [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)
 
+Network Scanning / Reconnaissance
+--
+* [Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/fundamentals-computer-hacking-956)
+* [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/)
+
 Vulnerable Web Application
 --
 * [OWASP Hackademic Challenges project](https://github.com/Hackademic/hackademic/)
@@ -207,11 +213,14 @@ Vulnerable Web Application
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 * [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
+* [Google Gruyere](https://google-gruyere.appspot.com/)
 
 Vulnerable OS
 --
 * [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 * [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\]
+* [Vulnhub](https://www.vulnhub.com/)
+* [General Test Environment Guidance](https://community.rapid7.com/docs/DOC-2196)
 
 Linux Penetration Testing OS
 --
