@@ -135,6 +135,7 @@ YouTube Channels
 * [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow)
 * [Adrian Crenshaw](https://www.youtube.com/user/irongeek)
 * [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+* [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)
 
 Sharpening Your Skills
 --
