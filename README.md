@@ -276,9 +276,11 @@ Archived Security Conference Videos
 Online Communities
 --
 * [Hack+](http://t.me/hacking_group_channel)
+* [MPGH](http://mpgh.net)
 
 Online News Sources  
 --
+* [Recent Hash Leaks](https://hashes.org/public.php)
 * [InfoSec](http://www.infosecurity-magazine.com/)  
 * [Threatpost](https://threatpost.com/)  
 * [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)  
