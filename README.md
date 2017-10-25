@@ -251,6 +251,7 @@ Linux Penetration Testing OS
 * [Kali](http://kali.org/)
 * [LionSec Linux](https://lionsec-linux.org/)
 * [Parrot ](https://www.parrotsec.org/)
+* [Bugtraq](http://bugtraq-team.com/)
 
 
 Exploits
