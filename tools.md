@@ -15,11 +15,14 @@ Repository | Description
 [SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
 [ctf-tools](https://github.com/zardus/ctf-tools) | Some setup scripts for security research tools. 
+[PENTEST-WIKI](https://github.com/nixawk/pentest-wiki) | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.
+
 
 ### Awesome custom projects / Scripts
 Name | Description
 ---- | ----
 [mimikatz](https://github.com/gentilkiwi/mimikatz) | A useful tool to play with Windows security including extracting plaintext passwords, kerberos tickets, etc.
+[LAZY script v2.1.3](https://github.com/arismelachroinos/lscript) |  The LAZY script will make your life easier, and of course faster.
 
 ### Exploitation tools
 Name | Description
@@ -56,6 +59,12 @@ Name | Description
 ---- | ----
 [SQLmap](http://sqlmap.org/) | Automatic SQL injection and database takeover tool
 [SQLninja](http://sqlninja.sourceforge.net/) | SQL Server injection & takeover tool
+
+### Post explotation
+Name | Description
+---- | ----
+[Portia](https://github.com/SpiderLabs/portia) | Portia aims to automate a number of techniques commonly performed on internal network penetration tests after a low privileged account has been compromised.
+
 
 ### Search Engine for Penetration Tester
 Name | Description

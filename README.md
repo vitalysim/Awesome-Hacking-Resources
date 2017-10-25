@@ -195,6 +195,7 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
 * [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876)
 * [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
+* [Introduction to ARM Assembly Basics] (https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 Privilege Escalation
 --
@@ -267,7 +268,7 @@ Forums
 * [Hackforums](https://hackforums.net/)
 * [0x00sec](https://0x00sec.org/)
 * [Antichat](https://forum.antichat.ru/)
-
+* [EAST Exploit database](http://eastexploits.com/)
 
 Archived Security Conference Videos
 --
