@@ -280,6 +280,7 @@ Online Communities
 --
 * [Hack+](http://t.me/hacking_group_channel)
 * [MPGH](http://mpgh.net)
+* [Hacktoday](https://www.hacktoday.net/)
 
 Online News Sources  
 --
