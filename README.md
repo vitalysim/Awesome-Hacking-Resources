@@ -173,6 +173,7 @@ Sharpening Your Skills
 * [Hacker test](http://www.hackertest.net/)
 * [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152)
 * [ROP Emporium](https://ropemporium.com/)
+* [Google's XSS game](https://xss-game.appspot.com/)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --
@@ -197,6 +198,7 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876)
 * [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 * [Introduction to ARM Assembly Basics] (https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
 
 Privilege Escalation
 --

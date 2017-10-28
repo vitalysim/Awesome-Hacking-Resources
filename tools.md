@@ -59,11 +59,13 @@ Name | Description
 ---- | ----
 [SQLmap](http://sqlmap.org/) | Automatic SQL injection and database takeover tool
 [SQLninja](http://sqlninja.sourceforge.net/) | SQL Server injection & takeover tool
+[SQLiv](https://github.com/Hadesy2k/sqliv) | Massive SQL injection scanner
 
 ### Post explotation
 Name | Description
 ---- | ----
 [Portia](https://github.com/SpiderLabs/portia) | Portia aims to automate a number of techniques commonly performed on internal network penetration tests after a low privileged account has been compromised.
+[RSPET](https://github.com/panagiks/RSPET) | RSPET (Reverse Shell and Post Exploitation Tool) is a Python based reverse shell equipped with functionalities that assist in a post exploitation scenario.
 
 
 ### Search Engine for Penetration Tester
