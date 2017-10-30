@@ -36,6 +36,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
 
 Learning the Skills
 --
+* [Free interactive labs with White Hat Academy](https://ex.whitehat.academy)
 * [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
 * [Cybrary](https://www.cybrary.it/)
 * [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
