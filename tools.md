@@ -9,9 +9,11 @@ Repository | Description
 ---- | ----
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) | A curated list of awesome malware analysis tools and resources
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers
+[Awesome-osint](https://github.com/jivoi/awesome-osint) | A curated list of amazingly awesome OSINT
 [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 [HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
 [List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks) | A curated list of awesome Security talks
+[Scanners-Box](https://github.com/We5ter/Scanners-Box)  | The toolbox of open source scanners
 [SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
 [ctf-tools](https://github.com/zardus/ctf-tools) | Some setup scripts for security research tools. 
@@ -23,6 +25,7 @@ Name | Description
 ---- | ----
 [mimikatz](https://github.com/gentilkiwi/mimikatz) | A useful tool to play with Windows security including extracting plaintext passwords, kerberos tickets, etc.
 [LAZY script v2.1.3](https://github.com/arismelachroinos/lscript) |  The LAZY script will make your life easier, and of course faster.
+[XSStrike](https://github.com/UltimateHackers/XSStrike)  | XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
 
 ### Exploitation tools
 Name | Description
