@@ -187,6 +187,7 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf) - huge OS textbook, created by Dennis Yurichev
 * [Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/) - a series of 9 exploit tutorials,also features a podcast
 * [Exploit development](https://0x00sec.org/c/exploit-development) - links to the forum's exploit dev posts, quality and post style will vary with each poster
+* [flAWS challenge](http://flaws.cloud/) - Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).
 * [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - detailed tutorial, lots of good information about memory 
 * [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md) - a github collection of RE tools and books
 * [Reverse Engineering challenges](https://challenges.re/) - collection of challenges from the writer of RE for Beginners
