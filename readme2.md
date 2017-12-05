@@ -103,7 +103,6 @@ Name   |   Description
 [SecurityTubeCons](https://www.youtube.com/channel/UC2wNN-Zqiq4J1PLPnyMBWUg)  |  an assortment of con-style talks from various cons including BlackHat and Shmoocon
 [ToorCon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw)  |  handful of medium length con videos from con based in San Diego, CA
 [USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw/feed)  |  medium length "round table discussion with leading experts", content starts in 2016
-* NEWS <a id="NEWS"></a>
 [Corey Nachreiner](https://www.youtube.com/channel/UC7dUL0FbVPGqzdb2HtWw3Xg)  |  security newsbites, 2.7K subscribers, 2-3 videos a week, no set schedule
 [Error 404 Cyber News](https://www.youtube.com/channel/UC4HcNHFKshqj-aeyi6imW7Q)  |  short screen-shot videos with loud metal, no dialog, bi-weekly
 [Latest Hacking News](https://www.youtube.com/user/thefieldhouse/feed)  |  10K followers, medium length screenshot videos, no recent releases
