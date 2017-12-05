@@ -204,8 +204,8 @@ Name   |   Description
 [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)  |  as the title says, this course isn't for beginners
 [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876)  |  listing of a lengthy resource by Lena, aimed at being a course
 [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)  |  one user's radare2 tutorials
-[Introduction to ARM Assembly Basics] (https://azeria-labs.com/writing-arm-assembly-part-1/)  |  tons of tutorials from infosec pro Azeria, follow her on twitter
-[Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)  |  blog post by sploitfun, has 3 different levels
+[Introduction to ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
+[Linux x86 Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)  |  blog post by sploitfun, has 3 different levels
 
 
 ### Privilege Escalation
