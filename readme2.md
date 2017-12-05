@@ -83,7 +83,7 @@ Name   |   Description
 [CarolinaCon](https://www.youtube.com/channel/UCTY3Dpz68CyrjwRzqkE4sFw)  |  security con based in North Carolina, associated with various 2600 chapters, lots of lengthy instructional content
 [Cort Johnson](https://www.youtube.com/channel/UCV9r-yMeARWVCJEesim25Ag)  |  a handful of lengthy con-style talks from Hack Secure Opensec 2017
 [DevSecCon](https://www.youtube.com/channel/UCgxhfP2Hi8MQYz6ZkwpLA0A)  |  lenghty con videos covering DevSecOps, making software more secure
-[Garage4Hackers  |  Information Security](https://www.youtube.com/channel/UCDqagqREZlmJitWco-yPtvw/feed)  |  a handful of lengthy videos, About section lacks description
+[Garage4Hackers-Information Security](https://www.youtube.com/channel/UCDqagqREZlmJitWco-yPtvw/feed)  |  a handful of lengthy videos, About section lacks description
 [HACKADAY](https://www.youtube.com/channel/UCnv0gfLQFNGPJ5MHSGuIAkw)  |  lots of random tech content, not strictly infosec, some instructional
 [Hack In The Box Security Conference](https://www.youtube.com/channel/UC0BJVNTIEbG8CLG-xVVWJnA)  |  lengthy con-style instructional talks from an international security con
 [Hack in Paris](https://www.youtube.com/channel/UC7xJU9_oqw-vS6OJExS-2iA)  |  security con based in paris, features lots of instructional talks, slides can be difficult to see. 
@@ -115,14 +115,14 @@ Name   |   Description
 [DEFCON Conference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)  |  lots of lengthy con-style vids from the iconical DEFCON
 [DemmSec](https://www.youtube.com/channel/UCJItQmwUrcW4VdUqWaRUNIg)  |  lots of pen testing vids, somewhat irregular uploads, 44K followers
 [Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g)  |  amateur pen-tester posting lots of brief screenshot vids regularly, 9K Followers
-[Geeks Fort  |  KIF](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw)  |  lots of brief screenshot vids, no recent posts
+[Geeks Fort-KIF](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw)  |  lots of brief screenshot vids, no recent posts
 [iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos)  |  lots of screenshot vids aimed at novices, 5.7K Followers, no recent posts
 [HACKING TUTORIALS](https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA)  |  handful of brief screenshot vids, no recent posts. 
 [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  |  Lots of brief-to-medium isntructional vids, covering things like buffer overflwos and exploit writing, regular posts.
 [Metasploitation](https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg)  |  lots of screenshot vids, little to no dialogue, all about using Metasploit, no recent vids.
 [NetSecNow](https://www.youtube.com/channel/UC6J_GnSAi7F2hY4RmnMcWJw)  |  channel of pentesteruniversity.org, seems to post once a month, screenshot instructional vids
 [Open SecurityTraining](https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg)  |  lots of lengthy lecture-style vids, no recent posts, but quality info.
-[BalCCon  |  Balkan Computer Congress](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA)  |  Long con-style talks from the Balkan Computer Congress, doesn't update regularly
+[BalCCon-Balkan Computer Congress](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA)  |  Long con-style talks from the Balkan Computer Congress, doesn't update regularly
 [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)  |  DELETE
 [rwbnetsec](https://www.youtube.com/channel/UCAJ8Clc3188ek9T_5XTVzZQ)  |  lots of medium length instructional videos covering tools from Kali 2.0, no recent posts.
 [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg)  |  regular updates, lengthy podcst-style interview with industry pros
@@ -228,7 +228,7 @@ Name   |   Description
 Name   |   Description
 ----   |   ----
 [Malware traffic analysis](http://www.malware-traffic-analysis.net/)  |  list of traffic analysis exercises
-[Malware Analysis  |  CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)  |  another class from the folks at RPISEC, quality content
+[Malware Analysis-CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)  |  another class from the folks at RPISEC, quality content
 
 
 ### Network Scanning / Reconnaissance
