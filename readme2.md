@@ -34,7 +34,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Online News Sources](#online-news-sources)
  * [Linux Penetration Testing OS](#linux-penetration-testing-os)
 
-###Learning the Skills
+### Learning the Skills
 Name   |   Description
 ----   |   ----
 [Free interactive labs with White Hat Academy](https://ex.whitehat.academy)   |   32 labs, easy account sign in with github credentials
@@ -49,7 +49,8 @@ Name   |   Description
 [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk)   |   free courseware, requires account
 [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)   |   academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
 
-###YouTube Channels
+
+### YouTube Channels
 Name   |   Description
 ----   |   ----
 [OWASP](https://www.youtube.com/user/OWASPGLOBAL)  |  see OWASP above
@@ -138,7 +139,8 @@ Name   |   Description
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)  |  regular posts, medium length screenshot vids, with dialog
 [Derek Rook-CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)  |  lots of lengthy screenshot instructional vids, with
 
-###Sharpening Your Skills
+
+### Sharpening Your Skills
 Name   |   Description
 ----   |   ----
 [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp)  |  BROKEN AS OF 11/6 
@@ -176,7 +178,7 @@ Name   |   Description
 [ROP Emporium](https://ropemporium.com/)  |  Return Oriented Programming challenges
 [Google's XSS game](https://xss-game.appspot.com/)  |  XSS challenges, an dpotentially a chance to get paid!
 
-###Reverse Engineering, Buffer Overflow and Exploit Development
+### Reverse Engineering, Buffer Overflow and Exploit Development
 Name   |   Description
 ----   |   ----
 [Shell storm](http://shell-storm.org/)  |  Blog style collection with organized info about Rev. Engineering. 
@@ -202,7 +204,8 @@ Name   |   Description
 [Introduction to ARM Assembly Basics] (https://azeria-labs.com/writing-arm-assembly-part-1/)  |  tons of tutorials from infosec pro Azeria, follow her on twitter
 [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)  |  blog post by sploitfun, has 3 different levels
 
-###Privilege Escalation
+
+### Privilege Escalation
 Name   |   Description
 ----   |   ----
 [Reach the root](https://hackmag.com/security/reach-the-root/)  |  discusses a process for linux privilege exploitation
@@ -221,19 +224,22 @@ Name   |   Description
 [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)  |  good resources that could be compiled into a script
 [4 Ways get linux privilege escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/)  |  shows different examples of PE
 
-###Malware Analysis
+
+### Malware Analysis
 Name   |   Description
 ----   |   ----
 [Malware traffic analysis](http://www.malware-traffic-analysis.net/)  |  list of traffic analysis exercises
 [Malware Analysis  |  CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md)  |  another class from the folks at RPISEC, quality content
 
-###Network Scanning / Reconnaissance
+
+### Network Scanning / Reconnaissance
 Name   |   Description
 ----   |   ----
 [Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/fundamentals-computer-hacking-956)  |  a white paper from SANS
 [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/)  |  list of commands for google hacks, unleash the power of the world's biggest search engine
 
-###Vulnerable Web Application
+
+### Vulnerable Web Application
 Name   |   Description
 ----   |   ----
 [OWASP Hackademic Challenges project](https://github.com/Hackademic/hackademic/)  |  web hacking challenges
@@ -246,7 +252,8 @@ Name   |   Description
 [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)  |  covers the OWASP top 10 vulns
 [Google Gruyere](https://google-gruyere.appspot.com/)  |  host of challenges on this cheesy web app
 
-###Vulnerable OS
+
+### Vulnerable OS
 Name   |   Description
 ----   |   ----
 [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)  |  vulnerable OS, great for practicing hacking
@@ -254,8 +261,10 @@ Name   |   Description
 [Vulnhub](https://www.vulnhub.com/)  |  collection of tons of different vulnerable OS and challenges
 [General Test Environment Guidance](https://community.rapid7.com/docs/DOC-2196)  |  white paper from the pros at rapid7
 
-###Linux Penetration Testing OS
-----   |   ----
+
+### Linux Penetration Testing OS
+Name | Description
+---- | ----
 [BackBox](https://backbox.org/index)  |  open source community project, promoting security in IT enivornments
 [BlackArch](https://blackarch.org/index.html)  |  Arch Linux based pentesting distro, compatible with Arch installs
 [Kali](http://kali.org/)  |  the infamous pentesting distro from the folks at Offensive Security
@@ -265,7 +274,7 @@ Name   |   Description
 [Android Tamer](https://androidtamer.com//)  |  Android Tamer is a Virtual / Live Platform for Android Security professionals.
 
 
-###Exploits
+### Exploits
 Name   |   Description
 ----   |   ----
 [Exploit Database](https://www.exploit-db.com/)  |  database of a wide variety exploits, CVE compliant archive
@@ -273,28 +282,31 @@ Name   |   Description
 [0day.today](http://0day.today/)  |  Easy to navigate databse of exploits
 [Snyk Vulnerability DB](https://snyk.io/vuln/)  |  detailed info and remediation guidance for known vulns, also allows you to test your code
 
-###Forums
-Name   |   Description
+### Forums
+Name | Description
+---- | ----
 [Greysec](https://greysec.net)  |  hacking and security forum
 [Hackforums](https://hackforums.net/)  |  posting webstite for hacks/exploits/various discussion
 [0x00sec](https://0x00sec.org/)  |  hacker, malware, computer engineering, Reverse engineering
 [Antichat](https://forum.antichat.ru/)  |  russian based forum
 [EAST Exploit database](http://eastexploits.com/)  |  exploit DB for commercial exploits written for EAST Pentest Framework
 
-###Archived Security Conference Videos
+### Archived Security Conference Videos
 Name   |   Description
 ----   |   ----
 [InfoCon.org](https://infocon.org/cons/)   |   hosts data from hundreds of cons
 [Irongeek](http://www.irongeek.com/)   |   Website of Adrien Crenshaw, hosts a ton of info.
 
-###Online Communities
-Name   |   Description
+### Online Communities
+Name | Description
+---- | ----
 [Hack+](http://t.me/hacking_group_channel)   |   link requires telegram to be used
 [MPGH](http://mpgh.net)   |   community of MultiPlayerGameHacking
 [Hacktoday](https://www.hacktoday.net/)  |  requires an account, covering all kinds of hacking topics
 
-###Online News Sources  
-Name   |   Description
+### Online News Sources  
+Name | Description
+---- | ----
 [Recent Hash Leaks](https://hashes.org/public.php)  |  great place to lookup hashes
 [InfoSec](http://www.infosecurity-magazine.com/)  |  covers all the latest infosec topics
 [Threatpost](https://threatpost.com/)  |  covers all the latest threats and breaches
