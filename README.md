@@ -50,6 +50,7 @@ Name   |   Description
 [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)   |   academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
 
 
+
 ### YouTube Channels
 Name   |   Description
 ----   |   ----
@@ -140,6 +141,7 @@ Name   |   Description
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek)  |  lots of lengthy con0style talks
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)  |  regular posts, medium length screenshot vids, with dialog
 [Derek Rook-CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)  |  lots of lengthy screenshot instructional vids, with
+=====
 
 
 ### Sharpening Your Skills
