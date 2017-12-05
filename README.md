@@ -141,7 +141,6 @@ Name   |   Description
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek)  |  lots of lengthy con0style talks
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)  |  regular posts, medium length screenshot vids, with dialog
 [Derek Rook-CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)  |  lots of lengthy screenshot instructional vids, with
-=====
 
 
 ### Sharpening Your Skills
@@ -189,7 +188,7 @@ Name   |   Description
 [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4)  |  Collection of Linux Rev. Engineering videos
 [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)  |  intro course created by Malware Unicorn, complete with material and two VM's 
 [Reverse Engineering Malware 102](https://securedorg.github.io/RE102/)  |  the sequel to RE102
-[Modern Binary Exploitation  |  CSCI 4968](https://github.com/RPISEC/MBE)  |  RE challenges, you can download the files or download the VM created by RPISEC specifically for challenges, also links to their home page with tons of infosec lectures
+[Modern Binary Exploitation-CSCI 4968](https://github.com/RPISEC/MBE)  |  RE challenges, you can download the files or download the VM created by RPISEC specifically for challenges, also links to their home page with tons of infosec lectures
 [Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86.html)  |  63 days of OS class materials, 29 classes, 24 instructors, no account required
 [Binary hacking](http://liveoverflow.com/binary_hacking/index.html)  |  35 "no bullshit" binary videos along with other info
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/)  |  a blog entry from a grad student at SDS Labs
