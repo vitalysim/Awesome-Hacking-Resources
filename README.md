@@ -262,7 +262,7 @@ Exploits
 --
 * [Exploit Database](https://www.exploit-db.com/) - database of a wide variety exploits, CVE compliant archive
 * [CXsecurity](https://cxsecurity.com/exploit/) - Indie cybersecurity info managed by 1 person
-* [0day.today](http://0day.today/) - Easy to navigate databse of exploits
+* [0day.today](http://0day.today/) - Easy to navigate database of exploits
 * [Snyk Vulnerability DB](https://snyk.io/vuln/) - detailed info and remediation guidance for known vulns, also allows you to test your code
 
 Forums
