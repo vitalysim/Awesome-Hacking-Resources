@@ -40,6 +40,7 @@ Name | Description
 [DefenseMatrix](https://github.com/K4YT3X/DefenseMatrix) | Full security solution for Linux Servers 
 [Kernelpop](https://github.com/spencerdodd/kernelpop) | kernel privilege escalation enumeration and exploitation framework 
 [Lynis](https://github.com/CISOfy/lynis) | Security auditing tool for Linux, macOS, and UNIX-based systems.
+[linux-explorer](https://github.com/intezer/linux-explorer) | Easy-to-use live forensics toolbox for Linux endpoints
 
 ### Exploit Databases
 Name | Description
