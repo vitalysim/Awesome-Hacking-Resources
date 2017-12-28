@@ -205,7 +205,7 @@ Name    |     Description
 [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course) | as the title says, this course isn't for beginners
 [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876) | listing of a lengthy resource by Lena, aimed at being a course
 [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/) | one user's radare2 tutorials
-[Introduction to ARM Assembly Basics] (https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
+[Introduction to ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
 [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/) | blog post by sploitfun, has 3 different levels
 
 ### Privilege Escalation
@@ -240,8 +240,8 @@ Name    |    Description
 [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/) | list of commands for google hacks, unleash the power of the world's biggest search engine
 
 ### Vulnerable Web Application
-Name    |    Descrpiton
-----    |
+Name    |    Description
+----    |    ----
 [OWASP Hackademic Challenges project](https://github.com/Hackademic/hackademic/) | web hacking challenges
 [bWAPP](http://www.itsecgames.com/) | common buggy web app for hacking, great for beginners, lots of documentation
 [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) | PHP/MySQL web app for testing skills and tools
