@@ -23,7 +23,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Sharpening Your Skills](#sharpening-your-skills)
  * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
  * [Privilege Escalation](#privilege-escalation)
- * [Network Scanning / Reconnaissance](#network-Scanning-/-Reconnaissance)
+ * [Network Scanning / Reconnaissance](#network-scanning--reconnaissance)
  * [Malware Analysis](#malware-analysis)
  * [Vulnerable Web Application](#vulnerable-web-application)
  * [Vulnerable OS](#vulnerable-os)
