@@ -181,6 +181,11 @@ Name    |    Description
 [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
 [ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
 [Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
+[websec.fr](https://websec.fr/) | Focused on web challenges, registration is optional.
+[knock.xss.moe](https://knock.xss.moe) | XSS challenges, account required.
+[webhacking.kr](https://webhacking.kr) | lots of web security challenges are available, recommended for beginners. You need to solve a simple challenge to sign up.
+[Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
+
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
