@@ -65,6 +65,7 @@ Sharpening Your Skills
 * [Root-Me](https://www.root-me.org/)
 * [PicoCTF](https://2017game.picoctf.com/)
 * [Shellter Labs](https://shellterlabs.com/en/)
+* [Stripe CTF 2.0](https://github.com/stripe-ctf/stripe-ctf-2.0)
 
 Reverse Engineering, Buffer overflow and Exploit development
 --
