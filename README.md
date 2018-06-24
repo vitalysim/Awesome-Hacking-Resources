@@ -185,7 +185,7 @@ Name    |    Description
 [knock.xss.moe](https://knock.xss.moe) | XSS challenges, account required.
 [webhacking.kr](https://webhacking.kr) | lots of web security challenges are available, recommended for beginners. You need to solve a simple challenge to sign up.
 [Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
-
+[Stripe CTF 2.0](https://github.com/stripe-ctf/stripe-ctf-2.0) | Past security contest aiming at discovering and exploiting vulnerabilities in mock web applications
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
