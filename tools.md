@@ -57,6 +57,11 @@ Name | Description
 [iedb](http://iedb.ir/) | Iranian Exploit DataBase
 [rapid7](https://rapid7.com/db) | Vulnerability & Exploit Database - Rapid7
 
+### Malware Analysis
+Name    |    Description
+----    |    ----
+[malice.io](https://github.com/maliceio/malice) | Open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
+
 ### MITM tools
 Name | Description
 ---- | ----
