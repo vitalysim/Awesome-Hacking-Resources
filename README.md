@@ -142,7 +142,7 @@ Name  |  Description
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con-style talks
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
 [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
-
+[Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 
 ### Sharpening Your Skills
 Name    |    Description
@@ -189,6 +189,8 @@ Name    |    Description
 [webhacking.kr](https://webhacking.kr) | lots of web security challenges are available, recommended for beginners. You need to solve a simple challenge to sign up.
 [Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
 [Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
+[Lin.security](https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/) | Practice your Linux privilege escalation
+[Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
@@ -235,6 +237,18 @@ Name    |    Description
 [Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker) | a simple linux PE check script
 [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623) | good resources that could be compiled into a script
 [4 Ways get linux privilege escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/) | shows different examples of PE
+[Windows Privilege Escalation](https://memorycorruption.org/windows/2018/07/29/Notes-On-Windows-Privilege-Escalation.html) | Notes on Windows Privilege Escalation
+[Windows Privilege Escalation Methods for Pentesters](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/) | Windows Privilege Escalation Methods for Pentesters
+[A GUIDE TO LINUX PRIVILEGE ESCALATION](https://payatu.com/guide-linux-privilege-escalation/) | Basics of Linux privilege escalation
+[Windows Privilege Escalation Guide](https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/) | Windows Privilege Escalation Guide
+[Linux Privilege Escalation Using PATH Variable](http://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/) | Linux Privilege Escalation Using PATH Variable
+[Linux Privilege Escalation using Misconfigured NFS](http://www.hackingarticles.in/linux-privilege-escalation-using-misconfigured-nfs/) | Linux Privilege Escalation using Misconfigured NFS
+[Editing /etc/passwd File for Privilege Escalation](http://www.hackingarticles.in/editing-etc-passwd-file-for-privilege-escalation/) | Editing /etc/passwd File for Privilege Escalation
+[Common Windows Privilege Escalation Vectors](https://www.toshellandback.com/2015/11/24/ms-priv-esc/) | Common Windows Privilege Escalation Vectors
+[Abusing SUDO (Linux Privilege Escalation)](http://touhidshaikh.com/blog/?p=790) | Abusing SUDO (Linux Privilege Escalation)
+[OSCP - Windows Priviledge Escalation](http://hackingandsecurity.blogspot.com/2017/09/oscp-windows-priviledge-escalation.html) | Common Windows Priviledge Escalation
+[Linux Privilege Escalation ](https://securityweekly.com/2017/12/17/linux-privilege-escalation-tradecraft-security-weekly-22/) | Linux Privilege Escalation – Tradecraft Security Weekly (Video)
+[Linux Privilege Escalation via Dynamically Linked Shared Object Library](https://www.contextis.com/blog/linux-privilege-escalation-via-dynamically-linked-shared-object-library) | How RPATH and Weak File Permissions can lead to a system compromise.
 
 ### Malware Analysis
 Name    |    Description

@@ -113,6 +113,16 @@ Name | Description
 [BinNavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code
 [Radare2](https://github.com/radare/radare2) | Radare2 is a reverse engineering suite which includes a complete toolkit for reverse enigneering needs. 
 
+### Privilege Escalation
+Name | Description
+---- | ----
+[LinEnum](https://github.com/rebootuser/LinEnum) | Scripted Local Linux Enumeration & Privilege Escalation Checks
+[CVE-2017-5123](https://github.com/nongiach/CVE/blob/master/CVE-2017-5123/README.md) | Linux Kernel 4.14.0-rc4+ - 'waitid()' Local Privilege Escalation
+[Oracle Privilege Escalation via Deserialization](http://obtruse.syfrtext.com/2018/07/oracle-privilege-escalation-via.html) | CVE-2018-3004 Oracle Privilege Escalation via Deserialization
+[linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) | The tool is meant to assist the security analyst in his testing for privilege escalation opportunities on Linux machine
+[BeRoot Project](https://github.com/AlessandroZ/BeRoot) | BeRoot Project is a post exploitation tool to check common misconfigurations to find a way to escalate our privilege.
+[yodo: Local Privilege Escalation](https://securityonline.info/yodo-local-privilege-escalation/) | yodo proves how easy it is to become root via limited sudo permissions, via dirty COW or using Pa(th)zuzu.
+
 ### Collaboration tools
 Name | Description
 ---- | ----
