@@ -143,6 +143,7 @@ Name  |  Description
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
 [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
+[IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 
 ### Sharpening Your Skills
 Name    |    Description
