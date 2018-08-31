@@ -142,6 +142,12 @@ Name  |  Description
 [Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q) | lots of brief screenshot vids covering web security and game programming
 [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg) | lots of brief screenshot vids, some CTF walkthroughs
 [Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA) | lots of brief c++ security videos, programming intensive
+[LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow) | lots of brief screenshot instructional vids, no dialog
+[Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con-style talks
+[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
+[Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
+[Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
+[IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 
 ### Sharpening Your Skills
 Name    |    Description
