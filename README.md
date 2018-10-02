@@ -79,7 +79,8 @@ Name  |  Description
 [Tripwire, Inc.](https://www.youtube.com/user/TripwireInc/videos) | some tripwire demos, and random news-style videos, non-instructional
 [Vincent Yiu](https://www.youtube.com/channel/UCFVI3_M1zqFzEok2sTeEP8w/featured) | handful of videos from a single hacker, instructional
 | <td colspan="2"> **Conferences** </td>
-[44contv](https://www.youtube.com/user/44contv) | information security con based in London, lengthy instructional videos
+[44contv](https://www.youtube.com/user/44contv) | in
+[MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineerinformation security con based in London, lengthy instructional videos
 [BruCON Security Conference](https://www.youtube.com/channel/UCqwMU1l90lf9BLersW6eAHw) | security and hacker conference based in b\Belgium, lots of lengthy instructinoal videos
 [BSides Manchester](https://www.youtube.com/channel/UC1mLiimOTqZFK98VwM8Ke4w) | security and hacker con based in Mancheseter, lots of lengthy videos
 [BSidesAugusta](https://www.youtube.com/channel/UC85CvsnrVlD_44eEgzb2OfA) | security con based in Augusta, Georgia, lots of lengthy instructional videos
@@ -107,6 +108,7 @@ Name  |  Description
 [ToorCon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw) | handful of medium length con videos from con based in San Diego, CA
 [USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw/feed) | medium length "round table discussion with leading experts", content starts in 2016
 | <td colspan = "2"> **News** </td>
+[0x41414141](https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ) | Channel with couple challenges, well explained
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con-style talks
 [Corey Nachreiner](https://www.youtube.com/channel/UC7dUL0FbVPGqzdb2HtWw3Xg) | security newsbites, 2.7K subscribers, 2-3 videos a week, no set schedule
 [BalCCon - Balkan Computer Congress](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA) | Long con-style talks from the Balkan Computer Congress, doesn't update regularly
