@@ -148,6 +148,7 @@ Name  |  Description
 [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
+[GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) | Security streams from Google Researcher. Mainly about CTFs, computer security, programing and similar things.
 
 ### Sharpening Your Skills
 Name    |    Description
