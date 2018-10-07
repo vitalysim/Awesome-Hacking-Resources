@@ -118,6 +118,7 @@ Name  |  Description
 [Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g) | amateur pen-tester posting lots of brief screenshot vids regularly, 9K Followers
 [Error 404 Cyber News](https://www.youtube.com/channel/UC4HcNHFKshqj-aeyi6imW7Q) | short screen-shot videos with loud metal, no dialog, bi-weekly
 [Geeks Fort - KIF](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw) | lots of brief screenshot vids, no recent posts
+[GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) | Security streams from Google Researcher. Mainly about CTFs, computer security, programing and similar things.
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
 [HACKING TUTORIALS](https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA) | handful of brief screenshot vids, no recent posts.
 [iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos) | lots of screenshot vids aimed at novices, 5.7K Followers, no recent posts
