@@ -41,7 +41,7 @@ Name  |  Description
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
 [Free cyber security training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
-[Free interactive labs with White Hat Academy](https://ex.whitehat.academy) | 32 labs, easy account sign in with github credentials
+[Interactive labs with White Hat Academy](https://ex.whitehat.academy) | 32 labs, easy account sign in with github credentials; this is no longer free content
 [Hak5](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
 [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html) | blog-style instruction, includes: slides, videos, homework, discussion. No login required.
 [Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
