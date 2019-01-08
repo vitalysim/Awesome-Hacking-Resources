@@ -38,6 +38,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
 Name  |  Description
 ----  |  ----
 [BadBinaries.com](https://www.badbinaries.com) | a simple opendir full of quality docs and notes on a variety of security topics; good walkthroughs on malware trafic analysis and sysadmin stuff.
+[Code examples for Penetration Testing](https://github.com/dreddsa5dies/goHackTools) | this is The CODE, but very simple and light. No VIDEO/AUDIO/TEXT lectures.
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
 [Free cyber security training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
