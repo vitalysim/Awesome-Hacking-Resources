@@ -10,6 +10,7 @@ Repository | Description
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) | A curated list of awesome malware analysis tools and resources
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers
 [Awesome-osint](https://github.com/jivoi/awesome-osint) | A curated list of amazingly awesome OSINT
+[Code examples for Penetration Testing](https://github.com/dreddsa5dies/goHackTools) | this is The CODE, but very simple and light. No VIDEO/AUDIO/TEXT lectures
 [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 [HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
 [List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks) | A curated list of awesome Security talks
