@@ -317,6 +317,7 @@ Name    |    Description
 ----    |    ----
 [0x00sec](https://0x00sec.org/) | hacker, malware, computer engineering, Reverse engineering
 [Antichat](https://forum.antichat.ru/) | russian based forum
+[CODEBY.NET](https://codeby.net/) | hacker, WAPT, malware, computer engineering, Reverse engineering, forensics - russian based forum
 [EAST Exploit database](http://eastexploits.com/) | exploit DB for commercial exploits written for EAST Pentest Framework
 [Greysec](https://greysec.net) | hacking and security forum
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
