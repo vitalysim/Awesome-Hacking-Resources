@@ -80,7 +80,7 @@ Name  |  Description
 [Vincent Yiu](https://www.youtube.com/channel/UCFVI3_M1zqFzEok2sTeEP8w/featured) | handful of videos from a single hacker, instructional
 | <td colspan="2"> **Conferences** </td>
 [44contv](https://www.youtube.com/user/44contv) | in
-[MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineerinformation security con based in London, lengthy instructional videos
+[MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science) |Information security con based in London, lengthy instructional videos
 [BruCON Security Conference](https://www.youtube.com/channel/UCqwMU1l90lf9BLersW6eAHw) | security and hacker conference based in b\Belgium, lots of lengthy instructinoal videos
 [BSides Manchester](https://www.youtube.com/channel/UC1mLiimOTqZFK98VwM8Ke4w) | security and hacker con based in Mancheseter, lots of lengthy videos
 [BSidesAugusta](https://www.youtube.com/channel/UC85CvsnrVlD_44eEgzb2OfA) | security con based in Augusta, Georgia, lots of lengthy instructional videos
