@@ -199,7 +199,7 @@ Name    |    Description
 [Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
 [Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for beggainers
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for begginers
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
