@@ -208,6 +208,7 @@ Name    |     Description
 [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/) | blog post by sploitfun, has 3 different levels
 [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/) | one user's radare2 tutorials
 [Modern Binary Exploitation - CSCI 4968](https://github.com/RPISEC/MBE) | RE challenges, you can download the files or download the VM created by RPISEC specifically for challenges, also links to their home page with tons of infosec lectures
+[Recon.cx - reversing conference](https://recon.cx/) | the conference site contains recordings and slides of all talks!! 
 [Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf) | huge textbook, created by Dennis Yurichev, open-source
 [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md) | a github collection of RE tools and books
 [Reverse Engineering challenges](https://challenges.re/) | collection of challenges from the writer of RE for Beginners
