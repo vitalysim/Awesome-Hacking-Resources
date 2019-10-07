@@ -149,6 +149,7 @@ Sharpening Your Skills
 * [Hacker test](http://www.hackertest.net/)
 * [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152)
 * [ROP Emporium](https://ropemporium.com/)
+* [Hacking-Lab](https://www.hacking-lab.com/)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --
