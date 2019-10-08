@@ -107,6 +107,7 @@ Name  |  Description
 [SecurityTubeCons](https://www.youtube.com/channel/UC2wNN-Zqiq4J1PLPnyMBWUg) | an assortment of con-style talks from various cons including BlackHat and Shmoocon
 [ToorCon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw) | handful of medium length con videos from con based in San Diego, CA
 [USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw/feed) | medium length "round table discussion with leading experts", content starts in 2016
+[ZeroNights](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A) | a lot of con-style talks from international conference ZeroNights
 | <td colspan = "2"> **News** </td>
 [0x41414141](https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ) | Channel with couple challenges, well explained
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con-style talks
