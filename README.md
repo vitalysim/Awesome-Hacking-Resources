@@ -228,6 +228,7 @@ Name    |     Description
 [reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
+[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learning Assembly by practicing
 
 ### Privilege Escalation
 Name    |    Description
@@ -304,6 +305,7 @@ Name    |    Description
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
+[Pentoo](https://www.pentoo.ch/) | pentesting OS based on Gentoo
 
 ### Exploits
 Name    |   Description
@@ -322,7 +324,8 @@ Name    |    Description
 [EAST Exploit database](http://eastexploits.com/) | exploit DB for commercial exploits written for EAST Pentest Framework
 [Greysec](https://greysec.net) | hacking and security forum
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
-
+[4Hat Day](http://4hatday.com) | brazilian based hacker forum
+[CaveiraTech](https://caveiratech.com/forum) |  brazilian based general hacker forum
 
 
 ### Archived Security Conference Videos
