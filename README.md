@@ -228,7 +228,7 @@ Name    |     Description
 [reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
-[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learning Assembly by practicing
+[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
 
 ### Privilege Escalation
 Name    |    Description
@@ -325,7 +325,7 @@ Name    |    Description
 [Greysec](https://greysec.net) | hacking and security forum
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
 [4Hat Day](http://4hatday.com) | brazilian based hacker forum
-[CaveiraTech](https://caveiratech.com/forum) |  brazilian based general hacker forum
+[CaveiraTech](https://caveiratech.com/forum) |  brazilian based, general hacker forum
 
 
 ### Archived Security Conference Videos
