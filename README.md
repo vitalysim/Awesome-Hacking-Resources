@@ -50,6 +50,7 @@ Name  |  Description
 [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk) | free courseware, requires account
 [SecurityTube](http://www.securitytube.net/) | tube-styled content, "megaprimer" videos covering various topics, no readable content on site.
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
+[Hopper's Roppers Intro to Security](https://hoppersroppers.github.io/course.html) | Free self-paced course that teaches foundational knowledge and how to find and use resources to succeed. Meant to prepare for students for whatever comes next. Guest access available.
 
 ### YouTube Channels
 Name  |  Description
