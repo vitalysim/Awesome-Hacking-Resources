@@ -90,6 +90,7 @@ Name | Description
 ### Search Engine for Penetration Tester
 Name | Description
 ---- | ----
+[Spyse](https://spyse.com/) | Spyse collects valuable data from all open source internet and stores it in its own database to provide instant access to the data. 
 [Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
 [Shodan](http://shodan.io/) | Shodan is the world's first search engine for Internet-connected devices.
 [WiGLE](https://wigle.net/index) | Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.
