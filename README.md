@@ -48,7 +48,7 @@ Name  |  Description
 [Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
 [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) | academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
 [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) | academic content, full semester course including 27 lecture videos with slides and assign readings
-[OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk) | free courseware, requires account
+[OWASP top 10 web security risks](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) | free courseware, requires account
 [SecurityTube](http://www.securitytube.net/) | tube-styled content, "megaprimer" videos covering various topics, no readable content on site.
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
 [CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
@@ -227,8 +227,8 @@ Name    |     Description
 [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md) | a github collection of RE tools and books
 [Reverse Engineering challenges](https://challenges.re/) | collection of challenges from the writer of RE for Beginners
 [Reverse Engineering for beginners (GitHub project)](https://github.com/dennis714/RE-for-beginners) | github for the above
-[Reverse Engineering Malware 101](https://securedorg.github.io/RE101/) | intro course created by Malware Unicorn, complete with material and two VM's
-[Reverse Engineering Malware 102](https://securedorg.github.io/RE102/) | the sequel to RE101
+[Reverse Engineering Malware 101](https://malwareunicorn.org/workshops/re101.html) | intro course created by Malware Unicorn, complete with material and two VM's
+[Reverse Engineering Malware 102](https://malwareunicorn.org/workshops/re102.html) | the sequel to RE101
 [reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
