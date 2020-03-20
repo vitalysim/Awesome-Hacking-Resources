@@ -98,6 +98,7 @@ Name  |  Description
 [Hardwear.io](https://www.youtube.com/channel/UChwYb9xc9tZXquQxu4G0l_g/featured) | handful of lengthy con-style video, emphasis on hardware hacks
 [IEEE Symposium on Security and Privacy](https://www.youtube.com/channel/UC6pXMS7qre9GZW7A7FVM90Q) | content from the symposium; IEEE is a professional association based in the us, they also publish various journals
 [LASCON](https://www.youtube.com/channel/UCDHsOiMPS-SLppAOAJRD37Q) | lengthy con-style talks from an OWASP con held in Austin, TX
+[leHACK](https://www.youtube.com/channel/UCSxk_CUfES4ly5Sspc0Vorw) | leHACK is the oldest ( 2003 ), leading, security conference in Paris, FR
 [Marcus Niemietz](https://www.youtube.com/channel/UCtThfJl65L04ukWp0XZi3yg/videos) | lots of instructional content, associated with HACKPRA, an offensive security course from an institute in Germany
 [Media.ccc.de](https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg) | The real official channel of the chaos computer club, operated by the CCC VOC - tons of lengthy con-style vids
 [NorthSec](https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw) | lengthy con-style talks from an applied security conference in Canada
