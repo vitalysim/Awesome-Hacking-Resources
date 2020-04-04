@@ -43,13 +43,15 @@ Name  |  Description
 [Free cyber security training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
 [Interactive labs with White Hat Academy](https://ex.whitehat.academy) | 32 labs, easy account sign in with github credentials; this is no longer free content
 [Hak5](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
+[Hopper's Roppers Intro to Security](https://hoppersroppers.github.io/course.html) | Free self-paced course that teaches foundational knowledge and how to find and use resources to succeed. Meant to prepare for students for whatever comes next. Guest access available.
 [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html) | blog-style instruction, includes: slides, videos, homework, discussion. No login required.
 [Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
 [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) | academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
 [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) | academic content, full semester course including 27 lecture videos with slides and assign readings
-[OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk) | free courseware, requires account
+[OWASP top 10 web security risks](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) | free courseware, requires account
 [SecurityTube](http://www.securitytube.net/) | tube-styled content, "megaprimer" videos covering various topics, no readable content on site.
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
+[CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
 
 ### YouTube Channels
 Name  |  Description
@@ -200,6 +202,8 @@ Name    |    Description
 [Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
 [Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for beggainers
+[Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
+[Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
@@ -223,11 +227,12 @@ Name    |     Description
 [Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md) | a github collection of RE tools and books
 [Reverse Engineering challenges](https://challenges.re/) | collection of challenges from the writer of RE for Beginners
 [Reverse Engineering for beginners (GitHub project)](https://github.com/dennis714/RE-for-beginners) | github for the above
-[Reverse Engineering Malware 101](https://securedorg.github.io/RE101/) | intro course created by Malware Unicorn, complete with material and two VM's
-[Reverse Engineering Malware 102](https://securedorg.github.io/RE102/) | the sequel to RE101
+[Reverse Engineering Malware 101](https://malwareunicorn.org/workshops/re101.html) | intro course created by Malware Unicorn, complete with material and two VM's
+[Reverse Engineering Malware 102](https://malwareunicorn.org/workshops/re102.html) | the sequel to RE101
 [reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
+[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
 
 ### Privilege Escalation
 Name    |    Description
@@ -304,6 +309,7 @@ Name    |    Description
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
+[Pentoo](https://www.pentoo.ch/) | pentesting OS based on Gentoo
 
 ### Exploits
 Name    |   Description
@@ -322,7 +328,8 @@ Name    |    Description
 [EAST Exploit database](http://eastexploits.com/) | exploit DB for commercial exploits written for EAST Pentest Framework
 [Greysec](https://greysec.net) | hacking and security forum
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
-
+[4Hat Day](http://4hatday.com) | brazilian based hacker forum
+[CaveiraTech](https://caveiratech.com/forum) |  brazilian based, general hacker forum
 
 
 ### Archived Security Conference Videos
