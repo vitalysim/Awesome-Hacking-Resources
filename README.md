@@ -354,4 +354,5 @@ Name    |    Description
 [Recent Hash Leaks](https://hashes.org/public.php) | great place to lookup hashes
 [Security Intell](https://securityintelligence.com/news/) | covers all kinds of news, great intelligence resources
 [Threatpost](https://threatpost.com/) | covers all the latest threats and breaches
+[Secjuice](secjuice.com)
 [The Hacker News](https://thehackernews.com/) | features a daily stream of hack news, also has an app
