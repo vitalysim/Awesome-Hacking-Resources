@@ -129,6 +129,7 @@ Name  |  Description
 [HACKING TUTORIALS](https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA) | handful of brief screenshot vids, no recent posts.
 [iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos) | lots of screenshot vids aimed at novices, 5.7K Followers, no recent posts
 [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA) | lots of medium length instructional vids with some AskMe vids from the youtuber
+[John Hammond](https://www.youtube.com/user/RootOfTheNull) | Solves CTF problems. contains penTesting tips and tricks
 [Latest Hacking News](https://www.youtube.com/user/thefieldhouse/feed) | 10K followers, medium length screenshot videos, no recent releases
 [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow) | lots of brief screenshot instructional vids, no dialog
 [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Lots of brief-to-medium instructional vids, covering things like buffer overflows and exploit writing, regular posts.
