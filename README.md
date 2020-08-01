@@ -308,6 +308,7 @@ Name    |    Description
 [BackBox](https://backbox.org/index) | open source community project, promoting security in IT enivornments
 [BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs
 [Bugtraq](http://bugtraq-team.com/) | advanced GNU Linux pen-testing technology
+[Docker for pentest](https://github.com/aaaguirrep/pentest) | Image with the more used tools to create a pentest environment easily and quickly.
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
