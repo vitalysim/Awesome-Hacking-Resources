@@ -124,6 +124,7 @@ Name | Description
 Name | Description
 ---- | ----
 [LinEnum](https://github.com/rebootuser/LinEnum) | Scripted Local Linux Enumeration & Privilege Escalation Checks
+[PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) | Privilege Escalation tools for Windows and Linux/Unix
 [CVE-2017-5123](https://github.com/nongiach/CVE/blob/master/CVE-2017-5123/README.md) | Linux Kernel 4.14.0-rc4+ - 'waitid()' Local Privilege Escalation
 [Oracle Privilege Escalation via Deserialization](http://obtruse.syfrtext.com/2018/07/oracle-privilege-escalation-via.html) | CVE-2018-3004 Oracle Privilege Escalation via Deserialization
 [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) | The tool is meant to assist the security analyst in his testing for privilege escalation opportunities on Linux machine
