@@ -156,6 +156,7 @@ Name  |  Description
 [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
+[The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
 
 ### Sharpening Your Skills
 Name    |    Description
@@ -203,10 +204,10 @@ Name    |    Description
 [Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
 [Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for beggainers
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for begginers
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
-
+[Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
