@@ -1,6 +1,6 @@
 <h1 align="center">
  	<br>
- 	  <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+ 	  <img width="200" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" alt="awesome">
  	<br>
 </h1>
 
@@ -37,7 +37,6 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
 ### Learning the Skills
 Name  |  Description
 ----  |  ----
-[BadBinaries.com](https://www.badbinaries.com) | a simple opendir full of quality docs and notes on a variety of security topics; good walkthroughs on malware trafic analysis and sysadmin stuff.
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
 [CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
