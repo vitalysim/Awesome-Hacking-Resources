@@ -301,6 +301,7 @@ Name    |    Description
 [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) | vulnerable OS, great for practicing hacking
 [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\] | the third installation of this vulnerable OS
 [Vulnhub](https://www.vulnhub.com/) | collection of tons of different vulnerable OS and challenges
+[ bugcrowd ] https://www.bugcrowd.com/ ) | best for practice your hacking skill.
 
 ### Linux Penetration Testing OS
 Name    |    Description
@@ -360,3 +361,12 @@ Name    |    Description
 [Threatpost](https://threatpost.com/) | covers all the latest threats and breaches
 [Secjuice](secjuice.com)
 [The Hacker News](https://thehackernews.com/) | features a daily stream of hack news, also has an app
+
+      
+      
+      
+             hope you will like this
+      
+      
+
+
