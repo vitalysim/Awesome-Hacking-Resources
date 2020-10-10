@@ -273,7 +273,6 @@ Name    |    Description
 ----    |    ----
 [Malware traffic analysis](http://www.malware-traffic-analysis.net/) | list of traffic analysis exercises
 [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | another class from the folks at RPISEC, quality content
-[Bad Binaries] (https://www.badbinaries.com/) | walkthrough documents of malware traffic analysis exercises and some occasional malware analysis.
 
 ### Network Scanning / Reconnaissance
 Name    |    Description
