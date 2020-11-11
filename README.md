@@ -20,6 +20,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
    * [Companies](#Companies)
    * [Conferences](#Conferences)
    * [NEWS](#NEWS)
+   * [Worldwide-ITSecurity-Specialists](#Worldwide-ITSecurity-Specialists)
  * [Sharpening Your Skills](#sharpening-your-skills)
  * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
  * [Privilege Escalation](#privilege-escalation)
@@ -156,7 +157,8 @@ Name  |  Description
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 [The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
-
+| <td colspan = "2"> **Worldwide-ITSecurity-Specialists** </td>
+[Awesome-ITSecurity-Specialists](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists) | A Curated List with non-english ITSec Youtubers
 ### Sharpening Your Skills
 Name    |    Description
 ----    |    ----
