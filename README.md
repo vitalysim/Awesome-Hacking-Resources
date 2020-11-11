@@ -158,7 +158,7 @@ Name  |  Description
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 [The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
 | <td colspan = "2"> **Worldwide-ITSecurity-Specialists** </td>
-[Awesome-ITSecurity-Specialists](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists) | A Curated List for non-english ITSec Youtubers
+[Awesome-ITSecurity-Specialists](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists) | A Curated List with non-english ITSec Youtubers
 ### Sharpening Your Skills
 Name    |    Description
 ----    |    ----
