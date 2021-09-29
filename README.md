@@ -207,9 +207,10 @@ Name    |    Description
 [Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for begginers
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
-[Portswigger Academy](https://portswigger.net/web-security) | Best Platform inorder to learn Web Pentesting, account required
+[Portswigger Academy](https://portswigger.net/web-security) | Best Platform to learn Web Pentesting, account required
 [CTF 101](https://ctf101.org/) | Informative and easy to read gitbook about Capture the Flags
-[Roppers Academy CTF Course](https://www.hoppersroppers.org/ctf/) | Free CTF course for beginners to learn how to solve classic forensics, crypto, and misc challenges. 
+[Roppers Academy CTF Course](https://www.hoppersroppers.org/ctf/) | Free CTF course for beginners to learn how to solve classic forensics, crypto, and misc challenges.
+[Hack the Box](https://www.hackthebox.eu/) | Excellent platform for practicing offensive techniques
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
@@ -238,8 +239,7 @@ Name    |     Description
 [reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
-[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
-[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
+[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to teach Assembly
 
 
 ### Privilege Escalation
