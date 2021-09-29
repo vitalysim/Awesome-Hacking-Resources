@@ -42,7 +42,7 @@ Name  |  Description
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
 [Free Cyber Security Training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
 [Hak5](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
-[Hopper's Roppers Security Training](https://hoppersroppers.org/training.html) | Four free self-paced courses on Computing Fundamentals, Security, Capture the Flags, and a Practical Skills Bootcamp that help beginners build a strong base of foundational knowledge. Designed to prepare for students for whatever they need to learn next.
+[Roppers Academy Computing Fundamentals](https://roppers.thinkific.com/courses/computing-fundamentals) | Free self-paced course on Computing and Security Fundamentals designed to help beginners build a strong base of foundational knowledge and hands-on experience. Takes about 100 hours to complete all material.
 [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html) | blog-style instruction, includes: slides, videos, homework, discussion. No login required.
 [Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
 [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) | academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
@@ -207,7 +207,10 @@ Name    |    Description
 [Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for begginers
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
-[Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
+[Portswigger Academy](https://portswigger.net/web-security) | Best Platform inorder to learn Web Pentesting, account required
+[CTF 101](https://ctf101.org/) | Informative and easy to read gitbook about Capture the Flags
+[Roppers Academy CTF Course](https://www.hoppersroppers.org/ctf/) | Free CTF course for beginners to learn how to solve classic forensics, crypto, and misc challenges. 
+
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
@@ -236,6 +239,8 @@ Name    |     Description
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
 [Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
+[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
+
 
 ### Privilege Escalation
 Name    |    Description
