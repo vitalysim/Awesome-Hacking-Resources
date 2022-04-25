@@ -162,6 +162,7 @@ Name    |    Description
 ----    |    ----
 [Backdoor](https://backdoor.sdslabs.co) | pen testing labs that have a space for beginners, a practice arena and various competitions, account required
 [The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
+[CI/CD Goat](https://github.com/cider-security-research/cicd-goat) | A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 [Challenge Land](http://challengeland.co/) | Ctf site with a twist, no simple sign-up, you have to solve a challengeto even get that far!
 [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
 [Crackmes.one](https://crackmes.one/) | This is a simple place where you can download crackmes to improve your reverse engineering skills.
