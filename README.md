@@ -208,7 +208,7 @@ Name    |    Description
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
 [Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
-[CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
+[CI/CD Goat](https://github.com/cider-security-research/cicd-goat) | A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
