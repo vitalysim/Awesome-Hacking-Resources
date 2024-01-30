@@ -37,6 +37,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
 ### Learning the Skills
 Name  |  Description
 ----  |  ----
+[CoursesOnline: Hacking Courses] (https://www.coursesonline.co.uk/courses/ethical-hacking/) These courses from CoursesOnline & The Learning People offer an introduction for those looking to begin a career in ethical hacking. Can be studied online at a learner's convinience.
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
 [CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
