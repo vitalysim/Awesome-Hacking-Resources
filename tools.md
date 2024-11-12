@@ -2,7 +2,7 @@
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
-A curated list of awesome Hacking Tools. Your contributions are always welcome !
+A curated list of awesome Hacking Tools. Your contributions are always welcome!
 
 ### Awesome Repositories
 Repository | Description
@@ -12,7 +12,7 @@ Repository | Description
 [Awesome-osint](https://github.com/jivoi/awesome-osint) | A curated list of amazingly awesome OSINT
 [Code examples for Penetration Testing](https://github.com/dreddsa5dies/goHackTools) | this is The CODE, but very simple and light. No VIDEO/AUDIO/TEXT lectures
 [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
-[HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
+[HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, available for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently available only inside of Burp Suite).
 [List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks) | A curated list of awesome Security talks
 [Scanners-Box](https://github.com/We5ter/Scanners-Box)  | The toolbox of open source scanners
 [SecLists](https://github.com/danielmiessler/SecLists) | It is a collection of multiple types of lists used during security assessments
@@ -29,7 +29,7 @@ Name | Description
 [XSStrike](https://github.com/UltimateHackers/XSStrike)  | XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
 [SubFinder](https://github.com/subfinder/subfinder) | Subdomain discovery tool for use on web application engagements. SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 [VHostScan](https://github.com/codingo/VHostScan) | A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
-[PhpSploit](https://github.com/nil0x42/phpsploit) | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner, with a complete asrenal of post-exploitation & privesc features.
+[PhpSploit](https://github.com/nil0x42/phpsploit) | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner, with a complete arsenal of post-exploitation & privilege features.
 
 
 
@@ -81,7 +81,7 @@ Name | Description
 [SQLninja](http://sqlninja.sourceforge.net/) | SQL Server injection & takeover tool
 [SQLiv](https://github.com/Hadesy2k/sqliv) | Massive SQL injection scanner
 
-### Post explotation
+### Post exploitation
 Name | Description
 ---- | ----
 [Portia](https://github.com/SpiderLabs/portia) | Portia aims to automate a number of techniques commonly performed on internal network penetration tests after a low privileged account has been compromised.
@@ -119,7 +119,7 @@ Name | Description
 Name | Description
 ---- | ----
 [BinNavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code
-[Radare2](https://github.com/radare/radare2) | Radare2 is a reverse engineering suite which includes a complete toolkit for reverse enigneering needs. 
+[Radare2](https://github.com/radare/radare2) | Radare2 is a reverse engineering suite which includes a complete toolkit for reverse engineering needs. 
 
 ### Privilege Escalation
 Name | Description
