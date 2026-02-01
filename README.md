@@ -311,6 +311,7 @@ Name    |    Description
 [Bugtraq](http://bugtraq-team.com/) | advanced GNU Linux pen-testing technology
 [Docker for pentest](https://github.com/aaaguirrep/pentest) | Image with the more used tools to create a pentest environment easily and quickly.
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
+[NullSec Linux](https://github.com/bad-antics/nullsec-linux) | Debian-based security distro for hardware hacking with Flipper Zero, WiFi Pineapple, USB Rubber Ducky integration
 [LionSec Linux](https://lionsec-linux.org/) | pentesting OS based on Ubuntu
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
 [Pentoo](https://www.pentoo.ch/) | pentesting OS based on Gentoo
