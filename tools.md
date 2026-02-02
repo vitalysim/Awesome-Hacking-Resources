@@ -29,6 +29,8 @@ Name | Description
 [XSStrike](https://github.com/UltimateHackers/XSStrike)  | XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
 [SubFinder](https://github.com/subfinder/subfinder) | Subdomain discovery tool for use on web application engagements. SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 [VHostScan](https://github.com/codingo/VHostScan) | A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+[n01d-forge](https://github.com/bad-antics/n01d-forge) | Native Rust image burner with LUKS/VeraCrypt encryption support, perfect for creating secure forensic images and bootable drives.
+[n01d-machine](https://github.com/bad-antics/n01d-machine) | Secure VM manager with Tor/VPN integration, sandboxing, and network isolation for anonymous pentesting.
 [PhpSploit](https://github.com/nil0x42/phpsploit) | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner, with a complete asrenal of post-exploitation & privesc features.
 
 
