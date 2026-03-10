@@ -105,6 +105,7 @@ Name | Description
 Name | Description
 ---- | ----
 [NMAP](https://nmap.org/) | The industry standard in network/port scanning.  Widely used.
+[ReconX](https://github.com/ofri09bs/reconx) | A lightweight, multithreaded network reconnaissance framework and scanner written in C with an interactive CLI.
 [Wireshark](https://www.wireshark.org/) | A versatile and feature-packed packet sniffing/analysis tool.  
 
 ### Source Code Analysis Tools
