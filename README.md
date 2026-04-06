@@ -14,6 +14,7 @@ A collection of hacking / penetration testing resources to make you better!
 
 We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including penetration testing, OSINT, and automated security assessment agents. MIT licensed.
 ## Table of Contents
  * [Learning the Skills](#learning-the-skills)
  * [YouTube Channels](#youtube-channels)
