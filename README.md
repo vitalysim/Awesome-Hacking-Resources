@@ -208,6 +208,7 @@ Name    |    Description
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
 [Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
+[HTB Writeups](https://github.com/momenbasel/htb-writeups) | The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
