@@ -25,6 +25,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Privilege Escalation](#privilege-escalation)
  * [Network Scanning / Reconnaissance](#network-scanning--reconnaissance)
  * [Malware Analysis](#malware-analysis)
+ * [AI Security / AI Red Teaming](#ai-security--ai-red-teaming)
  * [Vulnerable Web Application](#vulnerable-web-application)
  * [Vulnerable OS](#vulnerable-os)
  * [Exploits](#exploits)
@@ -251,6 +252,58 @@ Name    |    Description
 ----    |    ----
 [Malware traffic analysis](http://www.malware-traffic-analysis.net/) | list of traffic analysis exercises
 [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | another class from the folks at RPISEC, quality content
+
+### AI Security / AI Red Teaming
+
+#### Learning the Skills
+Name    |    Description
+----    |    ----
+[HTB AI Red Teamer Path](https://academy.hackthebox.com/path/preview/ai-red-teamer) | Hack The Box's offensive AI job-role path (built with Google). Modules on prompt injection, model privacy attacks, adversarial AI, supply chain, deployment threats. Hands-on labs against real systems.
+
+#### Offensive Frameworks & Knowledge Bases
+Name    |    Description
+----    |    ----
+[OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/) | Canonical attack-class taxonomy: prompt injection, sensitive info disclosure, supply chain, model poisoning, excessive agency, system prompt leakage, and more.
+[OWASP ML Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/) | Sibling project focused on attacks against ML pipelines.
+[MITRE ATLAS](https://atlas.mitre.org/) | Adversarial threat matrix for AI systems (16 tactics, 84 techniques, real-world case studies). The ATT&CK for AI.
+
+#### Tools (Offensive)
+Name    |    Description
+----    |    ----
+[Garak](https://github.com/leondz/garak) | Most mature open-source LLM vulnerability scanner. Probes for prompt injection, jailbreaks, data leakage, hallucination, toxicity.
+[PyRIT](https://github.com/Azure/PyRIT) | Microsoft's Python Risk Identification Tool for generative AI; supports multi-turn attack orchestration.
+[Promptfoo](https://github.com/promptfoo/promptfoo) | LLM red-team + eval framework with 100+ attack types.
+[DeepTeam](https://github.com/confident-ai/deepteam) | Red-team framework mapped to OWASP LLM Top 10; 50+ vulnerabilities, 20+ adversarial methods.
+[LLMFuzzer](https://github.com/mnns/LLMFuzzer) | Fuzzing framework specifically for LLM integrations.
+[promptmap](https://github.com/utkusen/promptmap) | Prompt-injection vulnerability scanner.
+[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Linux Foundation library covering evasion, poisoning, extraction, and inference attacks across all major ML frameworks.
+[CleverHans](https://github.com/cleverhans-lab/cleverhans) | Classic library for crafting adversarial examples against image models.
+[AI Exploits (Protect AI)](https://github.com/protectai/ai-exploits) | Collection of real, working exploits for vulnerabilities found in AI/ML tools and platforms.
+
+#### Sharpening Your Skills
+Name    |    Description
+----    |    ----
+[Gandalf (Lakera)](https://gandalf.lakera.ai/) | 7-level prompt-injection challenge; the "OverTheWire" of LLM hacking.
+[HackAPrompt](https://www.hackaprompt.com/) | Competitive prompt-injection CTF; dataset of 600k+ real jailbreak submissions.
+[Dreadnode Crucible](https://crucible.dreadnode.io/) | Free open AI red-team CTF platform with challenges across many difficulties and domains.
+[0DIN (Mozilla)](https://0din.ai/) | Gamified AI CTF training community on prompt injection and jailbreaking against interactive AI characters.
+[huntr](https://huntr.com/) | Bug bounty platform with an active AI/ML category targeting real models and CVEs.
+
+#### Reading & Research
+Name    |    Description
+----    |    ----
+[Embrace The Red](https://embracethered.com/blog/) | Johann Rehberger's blog; deep, practical write-ups of real-world LLM and agent exploitation.
+[Simon Willison — prompt injection](https://simonwillison.net/tags/prompt-injection/) | Running commentary from the person who coined the term; tracks every novel technique.
+[0DIN Blog](https://0din.ai/blog) | Disclosures and write-ups of real AI vulnerabilities from Mozilla's bug-bounty program.
+[Indirect Prompt Injection (Greshake et al.)](https://github.com/greshake/llm-security) | Canonical research repo for indirect prompt injection.
+[HackerOne x HTB AI Red Team CTF debrief](https://www.hackthebox.com/blog/ai-red-teaming-ctf) | Lessons from 200+ players in a live LLM jailbreak CTF, mapped to OWASP LLM Top 10.
+
+#### Awesome Lists
+Name    |    Description
+----    |    ----
+[corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) | Most-starred LLM security awesome list.
+[PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) | Focused specifically on red teaming, jailbreaks, prompt injection.
+[jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) | Offense-oriented curation: AI-powered attacks, plus attacks against AI.
 
 ### Network Scanning / Reconnaissance
 Name    |    Description
