@@ -170,6 +170,7 @@ Name  |  Description
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 [The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
+[Awesome Worldwide ITSec Specialists](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists) | curated index of non-English-speaking IT security YouTubers and creators
 
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
