@@ -63,6 +63,9 @@ Name  |  Description
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
 [TryHackMe](https://tryhackme.com/) | Designed prebuilt challenges which include virtual machines (VM) hosted in the cloud ready to be deployed
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 🎥 YouTube Channels
 Name  |  Description
 ----  |  ----
@@ -167,6 +170,9 @@ Name  |  Description
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 [The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 🎯 Sharpening Your Skills
 Name    |    Description
 ----    |    ----
@@ -207,6 +213,9 @@ Name    |    Description
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
 [Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
 [HTB Writeups](https://github.com/momenbasel/htb-writeups) | The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 🧬 Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
@@ -232,6 +241,9 @@ Name    |     Description
 [Shell storm](https://shellstorm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
 [Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
+
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### ⬆️ Privilege Escalation
 Name    |    Description
@@ -260,11 +272,17 @@ Name    |    Description
 [Windows Privilege Escalation Guide](https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/) | Windows Privilege Escalation Guide
 [Windows Privilege Escalation Methods for Pentesters](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/) | Windows Privilege Escalation Methods for Pentesters
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 🦠 Malware Analysis
 Name    |    Description
 ----    |    ----
 [Malware traffic analysis](http://www.malware-traffic-analysis.net/) | list of traffic analysis exercises
 [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | another class from the folks at RPISEC, quality content
+
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### 🤖 AI Security / AI Red Teaming
 
@@ -318,11 +336,17 @@ Name    |    Description
 [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) | Focused specifically on red teaming, jailbreaks, prompt injection.
 [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) | Offense-oriented curation: AI-powered attacks, plus attacks against AI.
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 🛰️ Network Scanning / Reconnaissance
 Name    |    Description
 ----    |    ----
 [Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/fundamentals-computer-hacking-956) | a white paper from SANS
 [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/) | list of commands for google hacks, unleash the power of the world's biggest search engine
+
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### 🌐 Vulnerable Web Application
 Name    |    Description
@@ -337,6 +361,9 @@ Name    |    Description
 [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) | covers the OWASP top 10 vulns
 [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat) | maintained by OWASP and designed to to teach web app security
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 🖥️ Vulnerable OS
 Name    |    Description
 ----    |    ----
@@ -344,6 +371,9 @@ Name    |    Description
 [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) | vulnerable OS, great for practicing hacking
 [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\] | the third installation of this vulnerable OS
 [Vulnhub](https://www.vulnhub.com/) | collection of tons of different vulnerable OS and challenges
+
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### 🐧 Linux Penetration Testing OS
 Name    |    Description
@@ -357,6 +387,9 @@ Name    |    Description
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
 [Pentoo](https://www.pentoo.ch/) | pentesting OS based on Gentoo
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 💥 Exploits
 Name    |   Description
 ----     |    ----
@@ -364,6 +397,9 @@ Name    |   Description
 [Exploit Database](https://www.exploit-db.com/) | database of a wide variety exploits, CVE compliant archive
 [CXsecurity](https://cxsecurity.com/exploit/) | Indie cybersecurity info managed by 1 person
 [Snyk Vulnerability DB](https://snyk.io/vuln/) | detailed info and remediation guidance for known vulns, also allows you to test your code
+
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### 💬 Forums
 Name    |    Description
@@ -374,12 +410,18 @@ Name    |    Description
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
 
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 ### 🎬 Archived Security Conference Videos
 Name    |    Description
 ----    |    ----
 [InfoCon.org](https://infocon.org/cons/) | hosts data from hundreds of cons
 [Irongeek](http://www.irongeek.com/) | Website of Adrien Crenshaw, hosts a ton of info.
 [infocondb.org](https://infocondb.org/) | a site that aims to catalog and cross-reference all hacker conferences.
+
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### 👥 Online Communities
 Name    |    Description
@@ -388,6 +430,9 @@ Name    |    Description
 [Hack+](http://t.me/hacking_group_channel) | link requires telegram to be used
 [MPGH](http://mpgh.net) | community of MultiPlayerGameHacking
 
+
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### 📰 Online News Sources
 Name    |    Description
@@ -399,3 +444,5 @@ Name    |    Description
 [Secjuice](secjuice.com)
 [The Hacker News](https://thehackernews.com/) | features a daily stream of hack news, also has an app
 [Infostealers by Hudson Rock](https://www.infostealers.com/) | all-around hub with news and publications about Infostealers
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
