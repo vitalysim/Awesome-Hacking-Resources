@@ -4,15 +4,28 @@
  	<br>
 </h1>
 
-# Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+<div align="center">
 
-A collection of hacking / penetration testing resources to make you better!
+<h1>Awesome Hacking Resources</h1>
 
-**Let's make it the biggest resource repository for our community.**
+<p><strong>A curated collection of hacking, penetration testing, and AI red-teaming resources to make you better.</strong></p>
 
-**You are welcome to fork and [contribute](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/contributing.md#contribution-guidelines).**
+<p>
+  <a href="https://awesome.re"><img src="https://img.shields.io/badge/awesome-yes-orange?style=flat-square" alt="Awesome"></a>
+  <img src="https://img.shields.io/github/stars/vitalysim/Awesome-Hacking-Resources?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/vitalysim/Awesome-Hacking-Resources?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/contributors/vitalysim/Awesome-Hacking-Resources?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/last-commit/vitalysim/Awesome-Hacking-Resources?style=flat-square" alt="Last commit">
+  <img src="https://img.shields.io/github/license/vitalysim/Awesome-Hacking-Resources?style=flat-square" alt="License">
+  <a href="contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
+</p>
 
-We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
+<p>Let's make it the biggest resource repository for our community.<br>
+You are welcome to fork and <a href="contributing.md">contribute</a>.</p>
+
+</div>
+
+We also maintain a companion [tools](tools.md) list — contributions welcome there too.
 
 ## Table of Contents
  * [Learning the Skills](#learning-the-skills)
