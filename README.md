@@ -446,3 +446,21 @@ Name    |    Description
 [Infostealers by Hudson Rock](https://www.infostealers.com/) | all-around hub with news and publications about Infostealers
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
+---
+
+## Contributors
+
+Thanks to everyone who has contributed resources, fixes, and reviews.
+
+<a href="https://github.com/vitalysim/Awesome-Hacking-Resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vitalysim/Awesome-Hacking-Resources" alt="Contributors" />
+</a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=vitalysim/Awesome-Hacking-Resources&type=Date)](https://star-history.com/#vitalysim/Awesome-Hacking-Resources&Date)
+
+## License
+
+Released under [GPL-3.0](LICENSE).
