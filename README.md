@@ -361,3 +361,4 @@ Name    |    Description
 [Threatpost](https://threatpost.com/) | covers all the latest threats and breaches
 [Secjuice](secjuice.com)
 [The Hacker News](https://thehackernews.com/) | features a daily stream of hack news, also has an app
+[Infostealers by Hudson Rock](https://www.infostealers.com/) | all-around hub with news and publications about Infostealers
