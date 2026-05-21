@@ -28,27 +28,27 @@ You are welcome to fork and <a href="contributing.md">contribute</a>.</p>
 We also maintain a companion [tools](tools.md) list — contributions welcome there too.
 
 ## Table of Contents
- * [Learning the Skills](#learning-the-skills)
- * [YouTube Channels](#youtube-channels)
+ * [📚 Learning the Skills](#-learning-the-skills)
+ * [🎥 YouTube Channels](#-youtube-channels)
    * [Companies](#Companies)
    * [Conferences](#Conferences)
    * [NEWS](#NEWS)
- * [Sharpening Your Skills](#sharpening-your-skills)
- * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
- * [Privilege Escalation](#privilege-escalation)
- * [Network Scanning / Reconnaissance](#network-scanning--reconnaissance)
- * [Malware Analysis](#malware-analysis)
- * [AI Security / AI Red Teaming](#ai-security--ai-red-teaming)
- * [Vulnerable Web Application](#vulnerable-web-application)
- * [Vulnerable OS](#vulnerable-os)
- * [Exploits](#exploits)
- * [Forums](#forums)
- * [Archived Security Conference Videos](#archived-security-conference-videos)
- * [Online Communities](#online-communities)
- * [Online News Sources](#online-news-sources)
- * [Linux Penetration Testing OS](#linux-penetration-testing-os)
+ * [🎯 Sharpening Your Skills](#-sharpening-your-skills)
+ * [🧬 Reverse Engineering, Buffer Overflow and Exploit Development](#-reverse-engineering-buffer-overflow-and-exploit-development)
+ * [⬆️ Privilege Escalation](#️-privilege-escalation)
+ * [🛰️ Network Scanning / Reconnaissance](#️-network-scanning--reconnaissance)
+ * [🦠 Malware Analysis](#-malware-analysis)
+ * [🤖 AI Security / AI Red Teaming](#-ai-security--ai-red-teaming)
+ * [🌐 Vulnerable Web Application](#-vulnerable-web-application)
+ * [🖥️ Vulnerable OS](#️-vulnerable-os)
+ * [💥 Exploits](#-exploits)
+ * [💬 Forums](#-forums)
+ * [🎬 Archived Security Conference Videos](#-archived-security-conference-videos)
+ * [👥 Online Communities](#-online-communities)
+ * [📰 Online News Sources](#-online-news-sources)
+ * [🐧 Linux Penetration Testing OS](#-linux-penetration-testing-os)
 
-### Learning the Skills
+### 📚 Learning the Skills
 Name  |  Description
 ----  |  ----
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
@@ -63,7 +63,7 @@ Name  |  Description
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
 [TryHackMe](https://tryhackme.com/) | Designed prebuilt challenges which include virtual machines (VM) hosted in the cloud ready to be deployed
 
-### YouTube Channels
+### 🎥 YouTube Channels
 Name  |  Description
 ----  |  ----
 [0patch by ACROS Security](https://www.youtube.com/channel/UCwlGrzF4on-bjiBhD8lO3QA) | few videos, very short, specific to 0patch
@@ -167,7 +167,7 @@ Name  |  Description
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 [The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
 
-### Sharpening Your Skills
+### 🎯 Sharpening Your Skills
 Name    |    Description
 ----    |    ----
 [The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
@@ -207,7 +207,7 @@ Name    |    Description
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
 [Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
 [HTB Writeups](https://github.com/momenbasel/htb-writeups) | The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets
-### Reverse Engineering, Buffer Overflow and Exploit Development
+### 🧬 Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
 [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course) | as the title says, this course isn't for beginners
@@ -233,7 +233,7 @@ Name    |     Description
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
 [Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
 
-### Privilege Escalation
+### ⬆️ Privilege Escalation
 Name    |    Description
 ----    |    ----
 [A GUIDE TO LINUX PRIVILEGE ESCALATION](https://payatu.com/guide-linux-privilege-escalation/) | Basics of Linux privilege escalation
@@ -260,13 +260,13 @@ Name    |    Description
 [Windows Privilege Escalation Guide](https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/) | Windows Privilege Escalation Guide
 [Windows Privilege Escalation Methods for Pentesters](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/) | Windows Privilege Escalation Methods for Pentesters
 
-### Malware Analysis
+### 🦠 Malware Analysis
 Name    |    Description
 ----    |    ----
 [Malware traffic analysis](http://www.malware-traffic-analysis.net/) | list of traffic analysis exercises
 [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | another class from the folks at RPISEC, quality content
 
-### AI Security / AI Red Teaming
+### 🤖 AI Security / AI Red Teaming
 
 #### Learning the Skills
 Name    |    Description
@@ -318,13 +318,13 @@ Name    |    Description
 [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) | Focused specifically on red teaming, jailbreaks, prompt injection.
 [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) | Offense-oriented curation: AI-powered attacks, plus attacks against AI.
 
-### Network Scanning / Reconnaissance
+### 🛰️ Network Scanning / Reconnaissance
 Name    |    Description
 ----    |    ----
 [Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/fundamentals-computer-hacking-956) | a white paper from SANS
 [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/) | list of commands for google hacks, unleash the power of the world's biggest search engine
 
-### Vulnerable Web Application
+### 🌐 Vulnerable Web Application
 Name    |    Description
 ----    |    ----
 [bWAPP](http://www.itsecgames.com/) | common buggy web app for hacking, great for beginners, lots of documentation
@@ -337,7 +337,7 @@ Name    |    Description
 [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) | covers the OWASP top 10 vulns
 [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat) | maintained by OWASP and designed to to teach web app security
 
-### Vulnerable OS
+### 🖥️ Vulnerable OS
 Name    |    Description
 ----    |    ----
 [General Test Environment Guidance](https://community.rapid7.com/docs/DOC-2196) | white paper from the pros at rapid7
@@ -345,7 +345,7 @@ Name    |    Description
 [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\] | the third installation of this vulnerable OS
 [Vulnhub](https://www.vulnhub.com/) | collection of tons of different vulnerable OS and challenges
 
-### Linux Penetration Testing OS
+### 🐧 Linux Penetration Testing OS
 Name    |    Description
 ----    |    -----
 [BackBox](https://backbox.org/index) | open source community project, promoting security in IT enivornments
@@ -357,7 +357,7 @@ Name    |    Description
 [Parrot ](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development
 [Pentoo](https://www.pentoo.ch/) | pentesting OS based on Gentoo
 
-### Exploits
+### 💥 Exploits
 Name    |   Description
 ----     |    ----
 [0day.today](http://0day.today/) | Easy to navigate database of exploits
@@ -365,7 +365,7 @@ Name    |   Description
 [CXsecurity](https://cxsecurity.com/exploit/) | Indie cybersecurity info managed by 1 person
 [Snyk Vulnerability DB](https://snyk.io/vuln/) | detailed info and remediation guidance for known vulns, also allows you to test your code
 
-### Forums
+### 💬 Forums
 Name    |    Description
 ----    |    ----
 [0x00sec](https://0x00sec.org/) | hacker, malware, computer engineering, Reverse engineering
@@ -374,14 +374,14 @@ Name    |    Description
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
 
 
-### Archived Security Conference Videos
+### 🎬 Archived Security Conference Videos
 Name    |    Description
 ----    |    ----
 [InfoCon.org](https://infocon.org/cons/) | hosts data from hundreds of cons
 [Irongeek](http://www.irongeek.com/) | Website of Adrien Crenshaw, hosts a ton of info.
 [infocondb.org](https://infocondb.org/) | a site that aims to catalog and cross-reference all hacker conferences.
 
-### Online Communities
+### 👥 Online Communities
 Name    |    Description
 ----    |    -----
 [Hacktoday](https://www.hacktoday.net/) | requires an account, covering all kinds of hacking topics
@@ -389,7 +389,7 @@ Name    |    Description
 [MPGH](http://mpgh.net) | community of MultiPlayerGameHacking
 
 
-### Online News Sources
+### 📰 Online News Sources
 Name    |    Description
 ----    |    ----
 [InfoSec](http://www.infosecurity-magazine.com/) | covers all the latest infosec topics
