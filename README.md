@@ -212,7 +212,9 @@ Name    |    Description
 [Hacking Articles](https://www.hackingarticles.in/category/ctf-challenges/) | CTF Brief Write up collection with a lot of screenshots good for begginers
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
-[Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
+[Portswigger Web Security Academy](https://portswigger.net/web-security) | Best free platform for learning web pentesting, account required
+[CTF 101](https://ctf101.org/) | Intro guide to CTFs covering common categories (crypto, forensics, web, pwn, RE) with worked examples
+[Hopper's Roppers CTF](https://www.hoppersroppers.org/ctf/) | Self-paced CTF course companion to the Hopper's Roppers training
 [HTB Writeups](https://github.com/momenbasel/htb-writeups) | The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
