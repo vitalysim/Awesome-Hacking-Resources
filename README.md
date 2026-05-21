@@ -36,6 +36,7 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
  * [🎯 Sharpening Your Skills](#-sharpening-your-skills)
  * [🧬 Reverse Engineering, Buffer Overflow and Exploit Development](#-reverse-engineering-buffer-overflow-and-exploit-development)
  * [⬆️ Privilege Escalation](#️-privilege-escalation)
+ * [🕵️ OSINT](#️-osint)
  * [🛰️ Network Scanning / Reconnaissance](#️-network-scanning--reconnaissance)
  * [🦠 Malware Analysis](#-malware-analysis)
  * [🤖 AI Security / AI Red Teaming](#-ai-security--ai-red-teaming)
@@ -272,6 +273,38 @@ Name    |    Description
 [Windows Privilege Escalation Guide](https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/) | Windows Privilege Escalation Guide
 [Windows Privilege Escalation Methods for Pentesters](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/) | Windows Privilege Escalation Methods for Pentesters
 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
+### 🕵️ OSINT
+Name    |    Description
+----    |    ----
+[theHarvester](https://github.com/laramies/theHarvester) | E-mail, subdomain, host and people-name harvester using public sources
+[Maltego CE](https://www.maltego.com/ce-registration/) | Graph-based link-analysis platform for OSINT and forensics; Community Edition is free
+[Recon-ng](https://github.com/lanmaster53/recon-ng) | Full-featured web reconnaissance framework written in Python
+[SpiderFoot](https://github.com/smicallef/spiderfoot) | Automated OSINT collection with 200+ modules and a web UI
+[Intel Techniques Tools](https://inteltechniques.com/tools/) | Michael Bazzell's hosted search tools for people, social, images, geo
+[Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) | Exploit-DB's curated Google dorks database for recon
+[github-dorks](https://github.com/techgaun/github-dorks) | CLI tool to scan GitHub repos/orgs for sensitive information leaks
+[metagoofil](https://github.com/laramies/metagoofil) | Extracts metadata from public documents (PDF, DOC, XLS) belonging to a target
+[Sherlock](https://github.com/sherlock-project/sherlock) | Hunt usernames across 400+ social networks
+[Maigret](https://github.com/soxoj/maigret) | Sherlock-style username enumeration across 3000+ sites with profile-data extraction
+[Holehe](https://github.com/megadose/holehe) | Check if an email is used on 120+ sites via password-reset flows
+[GHunt](https://github.com/mxrch/GHunt) | OSINT toolkit for investigating Google accounts (Gmail, Drive, Calendar exposure)
+[Blackbird](https://github.com/p1ngul1n0/blackbird) | Fast username and email OSINT search across 600+ services
+[h8mail](https://github.com/khast3x/h8mail) | Email OSINT and breach-credential hunting (HIBP, Snusbase, Leak-Lookup integrations)
+[PhoneInfoga](https://github.com/sundowndev/phoneinfoga) | Advanced OSINT framework for scanning international phone numbers
+[Photon](https://github.com/s0md3v/Photon) | Fast web crawler that extracts URLs, emails, secrets, and intel for recon
+[Amass](https://github.com/owasp-amass/amass) | OWASP project for in-depth attack-surface mapping and external asset discovery
+[Subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomain enumeration using public sources
+[cloud_enum](https://github.com/initstring/cloud_enum) | Enumerate public resources in AWS, Azure, and GCP for a target keyword
+[reconFTW](https://github.com/six2dez/reconftw) | End-to-end recon automation chaining 50+ tools for subdomains, vulns, and OSINT
+[IntelOwl](https://github.com/intelowlproject/IntelOwl) | OSINT solution that aggregates 100+ analyzers (threat intel, malware, observables)
+[OSINT Framework](https://osintframework.com/) | Web-based directory of OSINT resources organised by data type
+[Bellingcat Online Investigation Toolkit](https://www.bellingcat.com/resources/) | Bellingcat's curated, regularly updated toolkit and how-to guides
+[Have I Been Pwned](https://haveibeenpwned.com/) | Check whether emails/usernames appear in known data breaches
+[Hunter.io](https://hunter.io/) | Find and verify professional email addresses tied to a domain
+[Carbon14](https://github.com/Lazza/Carbon14) | OSINT tool for estimating the age of web pages from HTTP metadata
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
