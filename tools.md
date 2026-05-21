@@ -73,6 +73,7 @@ Name | Description
 [Evilginx](https://github.com/kgretzky/evilginx) | Man-in-the-middle attack framework used for phishing credentials and session cookies of any web service. 
 [MITMf](https://github.com/byt3bl33d3r/MITMf) | Framework for Man-In-The-Middle attacks
 [mitmproxy](https://mitmproxy.org/) | An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed
+[Xepor](https://github.com/xepor/xepor) | Xepor, a web routing framework for reverse engineers and security researchers, brings the best of mitmproxy & Flask
 
 ### SQL Injection
 Name | Description
