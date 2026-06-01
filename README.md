@@ -480,6 +480,7 @@ Name    |    Description
 [Secjuice](secjuice.com)
 [The Hacker News](https://thehackernews.com/) | features a daily stream of hack news, also has an app
 [Infostealers by Hudson Rock](https://www.infostealers.com/) | all-around hub with news and publications about Infostealers
+[defend.network](https://defend.network) | free daily cyber threat briefings and weekly vulnerability reports, with every CVE verified against NVD and the CISA KEV catalog
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
