@@ -19,6 +19,7 @@ Repository | Description
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
 [ctf-tools](https://github.com/zardus/ctf-tools) | Some setup scripts for security research tools. 
 [PENTEST-WIKI](https://github.com/nixawk/pentest-wiki) | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.
+[ARS3NAL](https://github.com/inflictx/Arsenal) | Offline-first, searchable arsenal for pentest & bug bounty: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists
 
 
 ### Awesome custom projects / Scripts
