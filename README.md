@@ -328,6 +328,12 @@ Name    |    Description
 [HTB AI Red Teamer Path](https://academy.hackthebox.com/path/preview/ai-red-teamer) | Hack The Box's offensive AI job-role path (built with Google). Modules on prompt injection, model privacy attacks, adversarial AI, supply chain, deployment threats. Hands-on labs against real systems.
 
 #### Offensive Frameworks & Knowledge Bases
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
 Name    |    Description
 ----    |    ----
 [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/) | Canonical attack-class taxonomy: prompt injection, sensitive info disclosure, supply chain, model poisoning, excessive agency, system prompt leakage, and more.
