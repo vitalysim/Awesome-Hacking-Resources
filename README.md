@@ -378,6 +378,7 @@ Name    |    Description
 ### 🛰️ Network Scanning / Reconnaissance
 Name    |    Description
 ----    |    ----
+[DomScan](https://domscan.net/tools/security) | Domain reconnaissance for DNS, WHOIS/RDAP, TLS, public subdomains, reputation, redirects, and typosquatting
 [Foot Printing with WhoIS/DNS records](https://www.sans.org/reading-room/whitepapers/hackers/fundamentals-computer-hacking-956) | a white paper from SANS
 [Google Dorks/Google Hacking](https://d4msec.wordpress.com/2015/09/03/google-dorks-for-finding-emails-admin-users-etc/) | list of commands for google hacks, unleash the power of the world's biggest search engine
 

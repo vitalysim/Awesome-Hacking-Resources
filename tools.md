@@ -92,8 +92,9 @@ Name | Description
 ### Search Engine for Penetration Tester
 Name | Description
 ---- | ----
-[Netlas](https://netlas.io/) | Internet-wide scan and OSINT search engine for discovering hosts, services, certificates, and exposed assets.
 [Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
+[DomScan](https://domscan.net/tools/security) | Domain intelligence search across DNS, WHOIS/RDAP, TLS, public subdomains, reputation, redirects, and typosquatting.
+[Netlas](https://netlas.io/) | Internet-wide scan and OSINT search engine for discovering hosts, services, certificates, and exposed assets.
 [Shodan](http://shodan.io/) | Shodan is the world's first search engine for Internet-connected devices.
 [WiGLE](https://wigle.net/index) | Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.
 [Zoomeye](https://www.zoomeye.ai/) | search engine for cyberspace that lets the user find specific network components(ip, services, etc.)
