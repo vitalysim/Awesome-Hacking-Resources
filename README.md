@@ -58,6 +58,7 @@ Name  |  Description
 [Free Cyber Security Training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
 [Hak5](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
 [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) | Four free self-paced courses on Computing Fundamentals, Security, Capture the Flags, and a Practical Skills Bootcamp that help beginners build a strong base of foundational knowledge. Designed to prepare for students for whatever they need to learn next.
+[LabEx](https://labex.io/learn/cybersecurity) | hands-on cybersecurity learning platform with courses and labs organized by skill and experience level
 [Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
 [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) | academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
 [OWASP top 10 web security risks](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) | free courseware, requires account
