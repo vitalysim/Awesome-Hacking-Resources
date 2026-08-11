@@ -495,7 +495,7 @@ Thanks to everyone who has contributed resources, fixes, and reviews.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vitalysim/Awesome-Hacking-Resources&type=Date)](https://star-history.com/#vitalysim/Awesome-Hacking-Resources&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=vitalysim/Awesome-Hacking-Resources&type=Date)](https://star-history.dera.page/#vitalysim/Awesome-Hacking-Resources&Date)
 
 ## License
 
