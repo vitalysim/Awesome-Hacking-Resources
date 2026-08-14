@@ -283,7 +283,7 @@ Name    |    Description
 Name    |    Description
 ----    |    ----
 [theHarvester](https://github.com/laramies/theHarvester) | E-mail, subdomain, host and people-name harvester using public sources
-[Maltego CE](https://www.maltego.com/ce-registration/) | Graph-based link-analysis platform for OSINT and forensics; Community Edition is free
+[Maltego CE](https://login.maltego.com/registration) | Graph-based link-analysis platform for OSINT and forensics; Community Edition is free
 [Recon-ng](https://github.com/lanmaster53/recon-ng) | Full-featured web reconnaissance framework written in Python
 [SpiderFoot](https://github.com/smicallef/spiderfoot) | Automated OSINT collection with 200+ modules and a web UI
 [Intel Techniques Tools](https://inteltechniques.com/tools/) | Michael Bazzell's hosted search tools for people, social, images, geo
@@ -292,6 +292,7 @@ Name    |    Description
 [metagoofil](https://github.com/laramies/metagoofil) | Extracts metadata from public documents (PDF, DOC, XLS) belonging to a target
 [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt usernames across 400+ social networks
 [Maigret](https://github.com/soxoj/maigret) | Sherlock-style username enumeration across 3000+ sites with profile-data extraction
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP
 [Holehe](https://github.com/megadose/holehe) | Check if an email is used on 120+ sites via password-reset flows
 [GHunt](https://github.com/mxrch/GHunt) | OSINT toolkit for investigating Google accounts (Gmail, Drive, Calendar exposure)
 [Blackbird](https://github.com/p1ngul1n0/blackbird) | Fast username and email OSINT search across 600+ services
