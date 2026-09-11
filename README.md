@@ -217,6 +217,7 @@ Name    |    Description
 [CTF 101](https://ctf101.org/) | Intro guide to CTFs covering common categories (crypto, forensics, web, pwn, RE) with worked examples
 [Hopper's Roppers CTF](https://www.hoppersroppers.org/ctf/) | Self-paced CTF course companion to the Hopper's Roppers training
 [HTB Writeups](https://github.com/momenbasel/htb-writeups) | The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets
+[SSH-MITM Tutorial](https://github.com/ssh-mitm/ssh-mitm) | Interactive walkthrough of intercepting SSH sessions, file transfers, and subsystems like PowerShell remoting and NETCONF
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
