@@ -333,6 +333,7 @@ Name    |    Description
 [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/) | Canonical attack-class taxonomy: prompt injection, sensitive info disclosure, supply chain, model poisoning, excessive agency, system prompt leakage, and more.
 [OWASP ML Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/) | Sibling project focused on attacks against ML pipelines.
 [MITRE ATLAS](https://atlas.mitre.org/) | Adversarial threat matrix for AI systems (16 tactics, 84 techniques, real-world case studies). The ATT&CK for AI.
+[Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Open database of real-world AI agent security incidents (354 records): indirect prompt injection, agent supply chain, MCP, sandbox escapes, agents used offensively. Each record has a primary source, an attack-chain diagram and a confirmed-harm flag.
 
 #### Tools (Offensive)
 Name    |    Description
