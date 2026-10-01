@@ -226,6 +226,7 @@ Name    |     Description
 [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course) | as the title says, this course isn't for beginners
 [Binary hacking](http://liveoverflow.com/binary_hacking/index.html) | 35 "no bullshit" binary videos along with other info
 [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) | detailed tutorial, lots of good information about memory
+[CTF PWN Notes](https://github.com/largefriessss/ctf-pwn-notes) | systematic binary exploitation knowledge base (in Chinese, with an English guide), covering ret2*, ROP, format string, heap exploitation, ORW and kernel pwn with 32/64-bit pwntools exploit templates
 [Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/) | a series of 9 exploit tutorials,also features a podcast
 [Exploit development](https://0x00sec.org/) | links to the forum's exploit dev posts, quality and post style will vary with each poster
 [flAWS challenge](http://flaws.cloud/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).
