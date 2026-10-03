@@ -63,6 +63,7 @@ Name  |  Description
 [OWASP top 10 web security risks](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) | free courseware, requires account
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
 [TryHackMe](https://tryhackme.com/) | Designed prebuilt challenges which include virtual machines (VM) hosted in the cloud ready to be deployed
+[WebTerm Learn](https://learn.webterm.app/en/courses) | Free Linux command line courses for beginners, from navigation and pipes to file permissions, users, services and SSH, with hands-on exercises in a simulated terminal in the browser. Free account required after the first lesson
 
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
