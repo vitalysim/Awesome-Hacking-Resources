@@ -122,6 +122,7 @@ Name | Description
 ---- | ----
 [BinNavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code
 [Radare2](https://github.com/radare/radare2) | Radare2 is a reverse engineering suite which includes a complete toolkit for reverse enigneering needs. 
+[REA](https://github.com/morluto/rea) | Local CLI and MCP tools for agent-assisted binary analysis with source-linked evidence; deep native analysis requires separately installed Hopper, Ghidra, or IDA.
 
 ### Privilege Escalation
 Name | Description
