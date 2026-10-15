@@ -433,7 +433,7 @@ Name    |   Description
 [Exploit Database](https://www.exploit-db.com/) | database of a wide variety exploits, CVE compliant archive
 [CXsecurity](https://cxsecurity.com/exploit/) | Indie cybersecurity info managed by 1 person
 [Snyk Vulnerability DB](https://snyk.io/vuln/) | detailed info and remediation guidance for known vulns, also allows you to test your code
-
+[Vulert](https://vulert.com/) |  Detects vulnerabilities in open source dependencies without accessing code, with support for JavaScript, PHP, Java, Python, and more.
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
