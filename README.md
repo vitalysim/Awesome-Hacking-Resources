@@ -307,6 +307,7 @@ Name    |    Description
 [Bellingcat Online Investigation Toolkit](https://www.bellingcat.com/resources/) | Bellingcat's curated, regularly updated toolkit and how-to guides
 [Have I Been Pwned](https://haveibeenpwned.com/) | Check whether emails/usernames appear in known data breaches
 [Hunter.io](https://hunter.io/) | Find and verify professional email addresses tied to a domain
+[Opsis](https://useopsis.com/) | Find the accounts linked to an email address, username or domain across 1000+ source modules (freemium)
 [Carbon14](https://github.com/Lazza/Carbon14) | OSINT tool for estimating the age of web pages from HTTP metadata
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
