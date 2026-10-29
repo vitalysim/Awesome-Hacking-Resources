@@ -228,6 +228,7 @@ Name    |     Description
 [Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) | detailed tutorial, lots of good information about memory
 [Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/) | a series of 9 exploit tutorials,also features a podcast
 [Exploit development](https://0x00sec.org/) | links to the forum's exploit dev posts, quality and post style will vary with each poster
+[Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | Commercial exploit-development and initial-access framework with exploit discovery, module execution, payload construction, remote testing, debugging, and result collection
 [flAWS challenge](http://flaws.cloud/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).
 [Introduction to ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
 [Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86.html) | 63 days of OS class materials, 29 classes, 24 instructors, no account required
