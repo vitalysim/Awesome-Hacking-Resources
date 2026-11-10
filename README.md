@@ -56,6 +56,7 @@ Name  |  Description
 [CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
 [Free Cyber Security Training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
+[HackITA](https://en.hackita.it/articoli/) | Practical cybersecurity guides on web hacking, Linux, Windows, networking, security tools, and penetration testing.
 [Hak5](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
 [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) | Four free self-paced courses on Computing Fundamentals, Security, Capture the Flags, and a Practical Skills Bootcamp that help beginners build a strong base of foundational knowledge. Designed to prepare for students for whatever they need to learn next.
 [Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
