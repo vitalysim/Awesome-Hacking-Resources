@@ -452,6 +452,7 @@ Name    |    Description
 ### 🎬 Archived Security Conference Videos
 Name    |    Description
 ----    |    ----
+[Cyber Talks](https://cybertalks.org/) | Unofficial searchable archive of about 52,095 recorded security conference talks, filterable by event, topic and speaker.
 [InfoCon.org](https://infocon.org/cons/) | hosts data from hundreds of cons
 [Irongeek](http://www.irongeek.com/) | Website of Adrien Crenshaw, hosts a ton of info.
 [infocondb.org](https://infocondb.org/) | a site that aims to catalog and cross-reference all hacker conferences.
