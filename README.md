@@ -400,6 +400,18 @@ Name    |    Description
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
+
+* [🔐 Web Application Security Testing Tools](#-web-application-security-testing-tools)
+
+### 🔐 Web Application Security Testing Tools
+
+Name | Description
+--- | ---
+[Vooki Pro](https://www.vookify.com/vooki/) | Cross-platform DAST solution for web application and REST API security testing, with authenticated scanning, AI-assisted analysis, vulnerability retesting, and reporting.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
+
 ### 🖥️ Vulnerable OS
 Name    |    Description
 ----    |    ----
