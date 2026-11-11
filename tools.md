@@ -138,3 +138,9 @@ Name | Description
 Name | Description
 ---- | ----
 [Dradis](https://dradisframework.com/ce/) | Open-source reporting and collaboration tool for InfoSec professionals
+
+
+### Web Application Security Testing
+Name | Description
+--- | ---
+[Vooki Pro](https://www.vookify.com/vooki/) | Cross-platform Dynamic Application Security Testing (DAST) solution for web applications and REST APIs, featuring authenticated scanning, AI-assisted vulnerability analysis, vulnerability retesting, and detailed security reporting.
