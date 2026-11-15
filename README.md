@@ -63,6 +63,7 @@ Name  |  Description
 [OWASP top 10 web security risks](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) | free courseware, requires account
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
 [TryHackMe](https://tryhackme.com/) | Designed prebuilt challenges which include virtual machines (VM) hosted in the cloud ready to be deployed
+[VigilForge](https://vigilforge.io/) | free structured learning paths from networking, Linux and Python to web security, SOC operations and CISSP / ISO 27001 prep; lessons readable without an account, free account for quizzes, exercises and progress tracking
 
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
