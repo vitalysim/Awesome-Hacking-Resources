@@ -343,6 +343,7 @@ Name    |    Description
 [DeepTeam](https://github.com/confident-ai/deepteam) | Red-team framework mapped to OWASP LLM Top 10; 50+ vulnerabilities, 20+ adversarial methods.
 [LLMFuzzer](https://github.com/mnns/LLMFuzzer) | Fuzzing framework specifically for LLM integrations.
 [promptmap](https://github.com/utkusen/promptmap) | Prompt-injection vulnerability scanner.
+[Vulert](https://vulert.com) | Vulert secures your software supply chain by detecting and continuously monitoring vulnerabilities and malicious open-source dependencies — without accessing your source code or installing agents. It helps developers identify, prioritize, and fix vulnerabilities quickly and efficiently. Supports JavaScript, PHP, Java, Python, Go, Rust, and more.
 [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Linux Foundation library covering evasion, poisoning, extraction, and inference attacks across all major ML frameworks.
 [CleverHans](https://github.com/cleverhans-lab/cleverhans) | Classic library for crafting adversarial examples against image models.
 [AI Exploits (Protect AI)](https://github.com/protectai/ai-exploits) | Collection of real, working exploits for vulnerabilities found in AI/ML tools and platforms.
