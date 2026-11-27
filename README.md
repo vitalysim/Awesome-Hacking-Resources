@@ -346,6 +346,7 @@ Name    |    Description
 [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Linux Foundation library covering evasion, poisoning, extraction, and inference attacks across all major ML frameworks.
 [CleverHans](https://github.com/cleverhans-lab/cleverhans) | Classic library for crafting adversarial examples against image models.
 [AI Exploits (Protect AI)](https://github.com/protectai/ai-exploits) | Collection of real, working exploits for vulnerabilities found in AI/ML tools and platforms.
+[VibeShield](https://shipbastion.com/) | Read-only pre-launch web security scanner and MIT CLI ([vibeshield-cli](https://github.com/zColdWater/vibeshield-cli)) for auditing AI-built web apps (52 client JS secret patterns, PostgREST RLS & public storage buckets, 10 Observatory HTTP headers, and `.env`/`.git` leaks), plus a free [10/10 HTTP Security Headers Config Generator](https://zcoldwater.github.io/vibeshield-cli/security-headers-config-generator.html).
 
 #### Sharpening Your Skills
 Name    |    Description
