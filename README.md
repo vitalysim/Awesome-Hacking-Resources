@@ -282,6 +282,7 @@ Name    |    Description
 ### 🕵️ OSINT
 Name    |    Description
 ----    |    ----
+[BrandShield](https://brand.shipbastion.com/) | Free read-only IANA RDAP domain availability (78+ TLDs), 28-variant DNSTwist typosquatting & lookalike scanner (`/typos`), USPTO trademarks, and developer handle OSINT
 [theHarvester](https://github.com/laramies/theHarvester) | E-mail, subdomain, host and people-name harvester using public sources
 [Maltego CE](https://www.maltego.com/ce-registration/) | Graph-based link-analysis platform for OSINT and forensics; Community Edition is free
 [Recon-ng](https://github.com/lanmaster53/recon-ng) | Full-featured web reconnaissance framework written in Python

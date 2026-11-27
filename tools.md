@@ -92,6 +92,7 @@ Name | Description
 ### Search Engine for Penetration Tester
 Name | Description
 ---- | ----
+[BrandShield](https://brand.shipbastion.com/) | Free read-only IANA RDAP domain availability (78+ TLDs), 28-variant DNSTwist typosquatting & lookalike scanner, USPTO trademarks, and handle reconnaissance.
 [Netlas](https://netlas.io/) | Internet-wide scan and OSINT search engine for discovering hosts, services, certificates, and exposed assets.
 [Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
 [Shodan](http://shodan.io/) | Shodan is the world's first search engine for Internet-connected devices.
