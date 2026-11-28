@@ -335,6 +335,7 @@ Name    |    Description
 [MITRE ATLAS](https://atlas.mitre.org/) | Adversarial threat matrix for AI systems (16 tactics, 84 techniques, real-world case studies). The ATT&CK for AI.
 
 #### Tools (Offensive)
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - Unified offensive security & AppSec MCP server for AI agents (160 tools: multi-language SAST/taint, live secret validation, Web DAST, 21,100+ 1-Day CVE verification, 29-protocol enumeration, OSINT, Cloud/AD audit, Scope Firewall; Streamable HTTP & local CLI).
 Name    |    Description
 ----    |    ----
 [Garak](https://github.com/leondz/garak) | Most mature open-source LLM vulnerability scanner. Probes for prompt injection, jailbreaks, data leakage, hallucination, toxicity.
